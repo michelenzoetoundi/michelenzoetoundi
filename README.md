@@ -29,17 +29,20 @@ I believe technology — especially data — can become a powerful tool to rebui
 ## 📚 Training Program (Official Curriculum)
 
 > 📌 *This is the definitive version of my Data Science & AI curriculum.*
+## 📚 Training Roadmap
 
-- **Phase 1: Mathematical Foundations**  
-  - Mathematics (Linear algebra, calculus)
-  - GNU Octave 
+## 📚 Training Roadmap
 
-- **Phase 2: Statistics and Inference (Data Diagnostic)**  
-- **Phase 3: Advanced Statistics Modeling**  
-- **Phase 4: Programming and Classical Machine Learning**
-- **Phase 5: Data Engineering (SQL)**
-- **Phase 6: Deep Learning** 
-- **Phase 7: Professional Projects & Portfolio**
+| Phase | Main Objective | Skills Acquired | Duration | Estimated Period | Target Professional Role |
+|-------|----------------|------------------|----------|-------------------|---------------------------|
+| **Phase 1 : 🏛️ Mathematical Foundations (Algebra & Calculus)** | Acquire essential mathematical foundations for data manipulation and analysis. | Linear algebra, differential & integral calculus, systems of equations, functional analysis, linear programming | 03 months | Nov 2025 – Jan 2026 | Data Analyst Junior / Preparation for statistical modeling |
+| **Phase 2 : 📊 Statistics & Inference** | Understand and apply statistical methods to explore and analyze data | Descriptive statistics, probability, distributions, inference, hypothesis testing, ANOVA, simple & multiple regression, time series forecasting | 03 months | Feb 2026 – Apr 2026 | Data Analyst Junior / Statistical Analyst |
+| **Phase 3 : 🧮 Advanced Statistical Modeling (R)** | Develop scientific rigor and the ability to model data using R | R programming, dataframes, advanced visualization, probability & statistical tests, multiple regression, GLM, additive models, nonlinear models, time series, multivariate stats, decision trees, Bayesian statistics, simulations | 03 months | May 2026 – Jul 2026 | Junior Data Scientist / Advanced Statistical Analyst |
+| **Phase 4 : 💻 Programming & Classical ML (Python)** | Master Python programming and classical ML libraries | Python (basic & advanced), Numpy, Scipy, Pandas, data visualization, ML libraries (scikit-learn), NLP, functional & OOP programming | 02 months | Aug 2026 – Sept 2026 | Junior Data Scientist / ML Developer |
+| **Phase 5 : ⚙️ Data Engineering (SQL)** | Master data extraction, manipulation, and transformation in a professional environment | SQL (basic & advanced), filtering, aggregation, joins, subqueries, views, stored procedures, transactions, table creation & manipulation | 01 month | Oct 2026 | Intermediate Data Scientist / Junior Data Engineer |
+| **Phase 6 : 🧠 Advanced AI (Deep Learning)** | Build advanced AI models for structured and unstructured data | Fundamentals of deep learning, TensorFlow, PyTorch, Keras, CNNs, NLP, language models, time series, image generation, best practices in AI | 03 months | Nov 2026 – Jan 2027 | Senior Data Scientist / Machine Learning Engineer |
+| **Phase 7 : 💼 Soft Skills, Professional Methodology & Projects** | Develop professional skills and apply all knowledge through real projects | Communication, project methodology, rapid prototyping, iteration on existing projects, advanced data analysis, reporting, consolidation of technical & analytical skills | 05 months | Feb 2027 – Jul 2027 | Lead Data Scientist / Data Science Consultant |
+
 
 👉 I can display the complete curriculum on request.
 
