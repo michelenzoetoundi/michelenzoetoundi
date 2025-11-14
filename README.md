@@ -9,8 +9,7 @@ This repository is my **professional identity**, the central hub connecting my p
 ## 🚀 Who Am I?
 
 I am a self-taught learner passionate about **Data Science**, **Artificial Intelligence**, **applied mathematics**, and **African philosophy**.  
-My ambition is to contribute to a new way of thinking about knowledge in Africa:  
-a vision that is rooted, simple, alive, and capable of inspiring real transformation.
+My ambition is to contribute to a new way of thinking about knowledge in Africa: a vision that is rooted, simple, alive, and capable of inspiring real transformation.
 
 I believe technology — especially data — can become a powerful tool to rebuild our institutions, our educational systems, and our relationship with the world.
 
