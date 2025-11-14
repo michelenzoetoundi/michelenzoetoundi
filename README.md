@@ -29,9 +29,6 @@ I believe technology — especially data — can become a powerful tool to rebui
 ## 📚 Training Program (Official Curriculum)
 
 > 📌 *This is the definitive version of my Data Science & AI curriculum.*
-## 📚 Training Roadmap
-
-## 📚 Training Roadmap
 
 | Phase | Main Objective | Skills Acquired | Duration | Estimated Period | Target Professional Role |
 |-------|----------------|------------------|----------|-------------------|---------------------------|
