@@ -25,7 +25,7 @@ I believe technology — especially data — can become a powerful tool to rebui
 
 ---
 
-## 📚 Training Program (Official Curriculum)
+## 📚 Training Program
 
 > 📌 *This is the definitive version of my Data Science & AI curriculum.*
 
