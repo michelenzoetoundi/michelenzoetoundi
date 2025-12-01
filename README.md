@@ -26,25 +26,17 @@ Focusing on Data Science & AI, building skills in Python, R, SQL, mathematics, M
 
 ---
 
-## 📚 Training Program
+## 📚 Training Program (Overview)
 
-> 📌 *This is the definitive version of my Data Science & AI curriculum.*
+I am following a structured Data Science & AI curriculum covering:
 
-| Phase                                                         | Main Objective                                                                          | Skills to Acquire                                                                                                                                                                                                                                                                | Target Professional Role                |      Status                      |
-| ------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | ---------------|
-| Phase 1: 🏛️ Mathematical Foundations (Algebra & Calculus)    | Acquire essential mathematical foundations for data science and AI.          | Linear algebra, differential and integral calculus                                                                                                                                                    | Junior Data Analyst / Statistical Analyst  | In progress |
-| Phase 2: 📊 Statistics & Inference (Data Diagnosis)           | Understand and apply statistical methods to explore and analyze data.                   | Descriptive statistics, probability, distributions, statistical inference, hypothesis testing, analysis of variance, simple and multiple regression, time series forecasting                                                                                                    | Junior Data Analyst / Statistical Analyst                |
-| Phase 3: 🧮 Advanced Statistical Modeling (R)                 | Develop scientific rigor and the ability to model, analyze and visualize data using R.                         | R programming, dataframe manipulation, advanced visualization, probabilities and statistical tests, multiple regression, generalized linear models, additive models, non-linear models, time series, multivariate statistics, decision trees, Bayesian statistics, simulations  | Junior Data Scientist / Advanced Statistical Analyst     |
-| ⚙️ Phase 4: Data Engineering (SQL)                            | Master data extraction, manipulation, and transformation in a professional environment using SQL. | Fundamental and advanced SQL, filtering, aggregation, joins, subqueries, views, stored procedures, transaction management, table creation and manipulation                                                                                                                       | Junior Data Scientist      |
-| 💻 Phase 5: Programming & Classical ML (Python)               | Master Python programming and libraries for Data Science and Machine Learning.                 | Fundamental and advanced Python, Numpy, Scipy, Pandas, data visualization, ML libraries (scikit-learn), NLP, functional and object-oriented programming                                                                                                                         | Junior Data Scientist / ML Developer                     |
-| Phase 6: 🧠 Advanced AI (Deep Learning)                       | Develop advanced AI models for structured and unstructured data.                        | Deep learning fundamentals, TensorFlow, PyTorch, Keras, CNN for computer vision, NLP and language models, time series, image generation, best practices in AI                                                                                                                 | Data Scientist / Machine Learning Engineer        |
-| Phase 1 to 6: 💼 Soft Skills & Professional Methodology & Projects | Develop professional skills and apply all knowledge in real projects.                   | Communication, project methodology, rapid prototyping, iteration on existing projects, advanced data management and analysis, report preparation, consolidation of technical and analytical skills                                                                             | Data Scientist / Machine Learning Engineer            |
-
-
-
-👉 I can display the complete curriculum on request.
-
----
+- **Phase 1: Mathematical Foundations** – Linear algebra & calculus for data analysis  
+- **Phase 2: Statistics & Inference** – Descriptive statistics, probability, hypothesis testing  
+- **Phase 3: Advanced Statistical Modeling (R)** – Data manipulation, visualization, regression, multivariate analysis  
+- **Phase 4: Data Engineering (SQL)** – Data extraction, transformation, queries, joins  
+- **Phase 5: Programming & Classical ML (Python)** – Python, ML libraries, basic NLP  
+- **Phase 6: Advanced AI (Deep Learning)** – TensorFlow, PyTorch, CNN, NLP, time series  
+- **Phase 1–6: Professional & Soft Skills** – Communication, project methodology, reporting, problem-solving
 
 ## 🧠 Current Projects
 
