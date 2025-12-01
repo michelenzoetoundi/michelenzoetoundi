@@ -46,7 +46,7 @@ You can download my **Data Science & AI curriculum** here:
 
 - 🌱 **Learning mini-projects** (GNU Octave,Python, R, SQL)  
 - 📊 **Exploration of real datasets**  
-- 📚 **Manual texbook notes, exercises and summaries**
+- 📚 **Manual textbook notes, exercises and summaries**
 
 ---
 
