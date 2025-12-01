@@ -9,9 +9,7 @@ This repository is my **professional identity**, the central hub connecting my p
 
 I hold a Bachelor's Degree in Telecoms Engineering with a major in Computer Science and Networks. 
 
-Focusing on Data Science & AI, building skills in Python, R, SQL, mathematics, ML & deep learning to turn data into actionable insights.
-
----
+Focusing on Data Science & AI, building skills in Python, R, SQL, mathematics, ML & deep learning to turn data into actionable insights.---
 
 ## 🎯 Goals
 
