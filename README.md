@@ -1,5 +1,5 @@
 # 👋 Michel Enzo Etoundi  
-## IT & Telecommunications Engineer | Data Science & AI Enthusiast | Python & R
+## IT & Telecommunications Engineer | Data Science & AI Enthusiast
 Welcome to my GitHub space.  
 This repository is my **professional identity**, the central hub connecting my projects, my learning journey, and my long-term vision.
 
