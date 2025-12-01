@@ -7,10 +7,9 @@ This repository is my **professional identity**, the central hub connecting my p
 
 ## 🚀 Who Am I?
 
-I hold a Bachelor's Degree in Telecoms Engineering with a major in Computer Science and Networks. I am learning **Data Science**, **Artificial Intelligence**, and **Philosophy**.
-My ambition is to contribute to a new way of thinking about knowledge in Africa: a vision that is rooted, simple, alive, and capable of inspiring real transformation.
+I hold a Bachelor's Degree in Telecoms Engineering with a major in Computer Science and Networks. 
 
-I believe technology — especially data — can become a powerful tool to rebuild our institutions, our educational systems, and our relationship with the world.
+I am now focusing on **Data Science & Artificial Intelligence**, consolidating my foundations in Python, R, SQL, statistics, and machine learning, with a passion for turning data into actionable insights.
 
 ---
 
