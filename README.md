@@ -38,6 +38,10 @@ I am following a structured Data Science & AI curriculum covering:
 - **Phase 6: Advanced AI (Deep Learning)** – TensorFlow, PyTorch, CNN, NLP, time series  
 - **Phase 1–6: Professional & Soft Skills** – Communication, project methodology, reporting, problem-solving
 
+You can download my **Data Science & AI curriculum** here:  
+
+[Curriculum-Data-Scientist.xlsx](Curriculum-Data-Scientist.xlsx)
+
 ## 🧠 Current Projects
 
 - 🌱 **Learning mini-projects** (GNU Octave,Python, R, SQL)  
