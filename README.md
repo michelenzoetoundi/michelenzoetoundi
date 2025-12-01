@@ -1,6 +1,5 @@
 # 👋 Michel Enzo Etoundi  
-### Data Science | Artificial Intelligence | Knowledge Transformation | Pan-African Vision
-
+**IT & Telecommunications Engineer | Data Science & AI Enthusiast | Python & R**
 Welcome to my GitHub space.  
 This repository is my **professional identity**, the central hub connecting my projects, my learning journey, and my long-term vision.
 
