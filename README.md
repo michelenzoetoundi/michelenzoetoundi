@@ -1,5 +1,5 @@
 # 👋 Michel Enzo Etoundi  
-## IT & Telecommunications Engineer | Data Science & AI Enthusiast
+## IT & Telecommunications Engineer | Data Science & AI Enthusiast | Hands-on Projects in Python & R
 Welcome to my GitHub space.  
 This repository is my **professional identity**, the central hub connecting my projects, my learning journey, and my long-term vision.
 
@@ -9,9 +9,8 @@ This repository is my **professional identity**, the central hub connecting my p
 
 I hold a Bachelor's Degree in Telecoms Engineering with a major in Computer Science and Networks. 
 
-I am now focusing on **Data Science & Artificial Intelligence**, consolidating my foundations in Python, R, SQL, maths, machine learning and deep learning, with a passion for turning data into actionable insights.
-
----
+**Focusing on Data Science & AI, building skills in Python, R, SQL, mathematics, ML & deep learning to turn data into actionable insights.
+**---
 
 ## 🎯 Goals
 
