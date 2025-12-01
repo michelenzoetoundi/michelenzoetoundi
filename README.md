@@ -9,14 +9,14 @@ This repository is my **professional identity**, the central hub connecting my p
 
 I hold a Bachelor's Degree in Telecoms Engineering with a major in Computer Science and Networks. 
 
-I am now focusing on **Data Science & Artificial Intelligence**, consolidating my foundations in Python, R, SQL, statistics, and machine learning, with a passion for turning data into actionable insights.
+I am now focusing on **Data Science & Artificial Intelligence**, consolidating my foundations in Python, R, SQL, maths, machine learning and deep learning, with a passion for turning data into actionable insights.
 
 ---
 
 ## 🎯 Goals
 
 - Build a strong Data Science & AI portfolio  
-- Master modern tools: Python, R, SQL, Excel, statistics, machine learning, deep learning
+- Master modern tools: Python, R, SQL, Excel, maths & statistics, machine learning, deep learning
 - Develop projects grounded in African realities  
 - Create accessible educational content  
 - Connect with global communities (Africa, Europe, Asia, America, Oceania)
