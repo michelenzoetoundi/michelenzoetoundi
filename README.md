@@ -47,14 +47,13 @@ I am now focusing on **Data Science & Artificial Intelligence**, consolidating m
 
 - 🌱 **Learning mini-projects** (GNU Octave,Python, R, SQL)  
 - 📊 **Exploration of real datasets**  
-- 🤖 **First regression and classification models**  
-- 📚 **Technical book notes and summaries**
+- 📚 **Manual texbook notes, exercises and summaries**
 
 ---
 
 ## 🗂️ Upcoming Projects
 
-- Advanced statistical analysis (R & Python)  
+- Statistical analysis (R & Python)  
 - Supervised / unsupervised models  
 - Deep Learning (TensorFlow / PyTorch)  
 - AI applications focused on African realities  
@@ -69,15 +68,6 @@ I am now focusing on **Data Science & Artificial Intelligence**, consolidating m
   - **Learn AI Together**  
 - GitHub: **@michelenzoetoundi**  
 - LinkedIn: **linkedin.com/in/michel-enzo-etoundi-121b64191**
-
----
-
-## 🧩 Vision
-
-> **“The true transformation of Africa begins with an inner revolution of thought.”**
-
-I work to rebuild an African vision of knowledge, centered on human dignity, intergenerational responsibility, and accessible learning.  
-Data Science and AI are tools to bring this vision to life.
 
 ---
 
