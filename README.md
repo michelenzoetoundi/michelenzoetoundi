@@ -4,6 +4,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F61?style=flat)
+
 Welcome to my GitHub space.  
 This repository is my **professional identity**, the central hub connecting my projects, my learning journey, and my long-term vision.
 
