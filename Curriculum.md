@@ -1,31 +1,31 @@
 
-# 📚 Plan de Formation
+# 📚 Training Plan
 
-| 📚 Manuel Pédagogique                                                          | 📖 Chapitres                                                        | 📊 Statut   |
+| 📚 Manual                                                         | 📖 Chapters                                                        | 📊 Status   |
 | :----------------------------------------------------------------------------- | :------------------------------------------------------------------ | :---------- |
-| 🟦 **Introduction à l'algèbre linéaire et à ses applications**    | Ch. 1 Langage Matriciel                                             | ✅ Terminé   |
-| *(ERPI, 2023)*                                                                               | Ch. 2 Opérations sur les matrices                                   | 🟠 En Cours |
+| 🟦 **Introduction à l'algèbre linéaire et à ses applications**                 | Ch. 1 Langage Matriciel                                             | ✅ Done  |
+| *(ERPI, 2023)*                                                                 | Ch. 2 Opérations sur les matrices                                   | 🟠 On going |
 |                                                                                | Ch. 3 Déterminants et inversions de matrices                        | ⏳ À venir   |
 |                                                                                | Ch. 4 Résolution de systèmes d'équations linéaires                  | ⏳ À venir   |
 |                                                                                | Ch. 5 Vecteurs du plan                                              | ⏳ À venir   |
 |                                                                                | Ch. 7 Vecteurs de R3 et de Rn                                       | ⏳ À venir   |
 |                                                                                | Ch. 9 Programmation linéaire                                        | ⏳ À venir   |
 |                                                                                |                                                                     |             |
-| 🟩 **Calcul Différentiel**                                  | Ch. 0 Notions algébriques et fonctions                              | ⏳ À venir   |
-| *(Chenelière, 2023)*                                                                               | Ch. 1 Limites et continuité                                         | ⏳ À venir   |
+| 🟩 **Calcul Différentiel**                                                     | Ch. 0 Notions algébriques et fonctions                              | ⏳ À venir   |
+| *(Chenelière, 2023)*                                                           | Ch. 1 Limites et continuité                                         | ⏳ À venir   |
 |                                                                                | Ch. 2 Définition de la dérivée                                      | ⏳ À venir   |
 |                                                                                | Ch. 3 Dérivée de fonctions algébriques et dérivation implicite      | ⏳ À venir   |
 |                                                                                | Ch. 4 Taux de variation                                             | ⏳ À venir   |
 |                                                                                | Ch. 5 Analyse d’une fonction algébrique et règle de l’Hospital      | ⏳ À venir   |
 |                                                                                | Ch. 6 Problèmes d’optimisation                                      | ⏳ À venir   |
 |                                                                                |                                                                     |             |
-| 🟧 **Calcul Intégral**                                      | Ch. 1 Dérivées et théorèmes d’analyse                               | ⏳ À venir   |
-| *(Chenelière, 2016)*                                                                               | Ch. 2 Intégration                                                   | ⏳ À venir   |
+| 🟧 **Calcul Intégral**                                                         | Ch. 1 Dérivées et théorèmes d’analyse                               | ⏳ À venir   |
+| *(Chenelière, 2016)*                                                           | Ch. 2 Intégration                                                   | ⏳ À venir   |
 |                                                                                | Ch. 3 Intégrale définie                                             | ⏳ À venir   |
 |                                                                                | Ch. 4 Techniques d’intégration                                      | ⏳ À venir   |
 |                                                                                |                                                                     |             |
-| 🟦 **Introductory Statistics: Exploring the World Through Data** | Ch. 1 Introduction to Data                                          | ⏳ À venir   |
-| *(3rd Edition)*                                                                               | Ch. 2 Putting Variation With Graphs                                 | ⏳ À venir   |
+| 🟦 **Introductory Statistics: Exploring the World Through Data**               | Ch. 1 Introduction to Data                                          | ⏳ À venir   |
+| *(3rd Edition)*                                                                | Ch. 2 Putting Variation With Graphs                                 | ⏳ À venir   |
 |                                                                                | Ch. 3 Numerical Summaries of Center and Variation                   | ⏳ À venir   |
 |                                                                                | Ch 4 Regression Analysis: Exploring Associations between Variables  | ⏳ À venir   |
 |                                                                                | Ch. 5 Modeling Variation with Probability                           | ⏳ À venir   |
@@ -39,8 +39,8 @@
 |                                                                                | Ch. 13 Inference without Normality                                  | ⏳ À venir   |
 |                                                                                | Ch. 14 Inference for Regression                                     | ⏳ À venir   |
 |                                                                                |                                                                     |             |
-| 🟪 **Statistics for Managers Using Microsoft Excel**           | Ch 0 First Things First                                             | ⏳ À venir   |
-| *(Pearson, 2020)*                                                                               | Ch 1 Defining and Collecting Data                                   | ⏳ À venir   |
+| 🟪 **Statistics for Managers Using Microsoft Excel**                           | Ch 0 First Things First                                             | ⏳ À venir   |
+| *(Pearson, 2020)*                                                              | Ch 1 Defining and Collecting Data                                   | ⏳ À venir   |
 |                                                                                | Ch 2 Organizing and Visualizing Variables                           | ⏳ À venir   |
 |                                                                                | Ch 3 Numerical Descriptive Measures                                 | ⏳ À venir   |
 |                                                                                | Ch 4 Basic Probability                                              | ⏳ À venir   |
@@ -205,7 +205,7 @@
 |                                                                                | 19 Utility landscape                                                | ⏳ À venir   |
 |                                                                                |                                                                     |             |
 | 💠 **Math and Architectures of Deep Learning **                                | 1 An overview of machine learning and deep learning                 | ⏳ À venir   |
-| *(2024, Manning)*                                                                | 2 Vectors, matrices, and tensors in machine learning                | ⏳ À venir   |
+| *(2024, Manning)*                                                              | 2 Vectors, matrices, and tensors in machine learning                | ⏳ À venir   |
 |                                                                                | 3 Classifiers and vector calculus                                   | ⏳ À venir   |
 |                                                                                | 4 Linear algebraic tools in machine learning                        | ⏳ À venir   |
 |                                                                                | 5 Probability distributions in machine learning                     | ⏳ À venir   |
