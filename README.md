@@ -47,7 +47,7 @@ I am following a structured Data Science & AI curriculum covering:
 - **Phase 1–6: Professional & Soft Skills** – Communication, project methodology, reporting, problem-solving
 
 You can **download my complete Data Science & AI curriculum** here:  
-[📥 See Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/main/Curriculum.md)
+[📥 See Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
 
 ## 🧠 Current Projects
 
