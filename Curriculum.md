@@ -170,8 +170,8 @@
 |                                                                                | 49. In Depth: Kernel Density Estimation                             | ⏳ À venir   |
 |                                                                                | 50. Application: A Face Detection Pipeline                          | ⏳ À venir   |
 |                                                                                |                                                                     |             |
-| ⬜ **Pandas Workout **                                                          | 1 Series                                                            | ⏳ À venir   |
-| *(2024, Manning)*                                                                | 2 Data Frames                                                       | ⏳ À venir   |
+| ⬜ **Pandas Workout**                                                          | 1 Series                                                            | ⏳ À venir   |
+| *(2024, Manning)*                                                              | 2 Data Frames                                                       | ⏳ À venir   |
 |                                                                                | 3 Importing and Exporting Data                                      | ⏳ À venir   |
 |                                                                                | 4 Indexes                                                           | ⏳ À venir   |
 |                                                                                | 5 Cleaning Data                                                     | ⏳ À venir   |
@@ -184,8 +184,8 @@
 |                                                                                | 12 Performance                                                      | ⏳ À venir   |
 |                                                                                | 13 Final Project                                                    | ⏳ À venir   |
 |                                                                                |                                                                     |             |
-| 🔘 **Machine Learning with TensorFlow **                                       | 1 A machine-learning odyssey                                        | ⏳ À venir   |
-| *(2020, Manning)*                                                                | 2 TensorFlow essentials                                             | ⏳ À venir   |
+| 🔘 **Machine Learning with TensorFlow**                                        | 1 A machine-learning odyssey                                        | ⏳ À venir   |
+| *(2020, Manning)*                                                              | 2 TensorFlow essentials                                             | ⏳ À venir   |
 |                                                                                | 3 Linear regression and beyond                                      | ⏳ À venir   |
 |                                                                                | 4 Using regression for call-center volume prediction                | ⏳ À venir   |
 |                                                                                | 5 A gentle introduction to classification                           | ⏳ À venir   |
@@ -204,7 +204,7 @@
 |                                                                                | 18 Sequence-to-sequence models for chatbots                         | ⏳ À venir   |
 |                                                                                | 19 Utility landscape                                                | ⏳ À venir   |
 |                                                                                |                                                                     |             |
-| 💠 **Math and Architectures of Deep Learning **                                | 1 An overview of machine learning and deep learning                 | ⏳ À venir   |
+| 💠 **Math and Architectures of Deep Learning**                                 | 1 An overview of machine learning and deep learning                 | ⏳ À venir   |
 | *(2024, Manning)*                                                              | 2 Vectors, matrices, and tensors in machine learning                | ⏳ À venir   |
 |                                                                                | 3 Classifiers and vector calculus                                   | ⏳ À venir   |
 |                                                                                | 4 Linear algebraic tools in machine learning                        | ⏳ À venir   |
@@ -219,8 +219,8 @@
 |                                                                                | 13 Fully Bayes model parameter estimation                           | ⏳ À venir   |
 |                                                                                | 14 Latent space and generative modeling                             | ⏳ À venir   |
 |                                                                                |                                                                     |             |
-| 🔥 **Deep Learning With Python **                                              | 1 What is deep learning?                                            | ⏳ À venir   |
-| *(Manning, 2025)*                                                                | 2 The mathematical building blocks of neural networks               | ⏳ À venir   |
+| 🔥 **Deep Learning With Python**                                               | 1 What is deep learning?                                            | ⏳ À venir   |
+| *(Manning, 2025)*                                                              | 2 The mathematical building blocks of neural networks               | ⏳ À venir   |
 |                                                                                | 3 Introduction to TensorFlow, PyTorch, JAX, and Keras               | ⏳ À venir   |
 |                                                                                | 4 Classification and regression                                     | ⏳ À venir   |
 |                                                                                | 5 Fundamentals of machine learning                                  | ⏳ À venir   |
