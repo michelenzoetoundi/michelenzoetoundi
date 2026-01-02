@@ -120,7 +120,7 @@
 |                                                                                | 22 Understanding Advanced SQL Features                              | ⏳ À venir   |
 |                                                                                |                                                                     |             |
 | 🟩 **Python Data Science Handbook**                                            | 1. Getting Started in IPython and Jupyter                           | ⏳ À venir   |
-| *(2023, O'reilly)*                                                                               | 2. Enhanced Interactive Features                                    | ⏳ À venir   |
+| *(2023, O'reilly)*                                                             | 2. Enhanced Interactive Features                                    | ⏳ À venir   |
 |                                                                                | 3. Debugging and Profiling                                          | ⏳ À venir   |
 |                                                                                | 4. Understanding Data Types in Python                               | ⏳ À venir   |
 |                                                                                | 5. The Basics of NumPy Arrays                                       | ⏳ À venir   |
