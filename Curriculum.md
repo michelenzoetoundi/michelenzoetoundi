@@ -59,8 +59,8 @@
 |                                                                                | Ch 17 Business Analytics                                            | ⏳ À venir   |
 |                                                                                | Ch 18 Getting Ready to Analyze Data in the Future                   | ⏳ À venir   |
 |                                                                                |                                                                     |             |
-| 🟥 **The R Book**                                         | Ch. 1 Getting Started                                               | ⏳ À venir   |
-| *(3rd Edition, Wiley)*                                                                               | Ch. 2 Technical Background                                          | ⏳ À venir   |
+| 🟥 **The R Book**                                                              | Ch. 1 Getting Started                                               | ⏳ À venir   |
+| *(3rd Edition, Wiley)*                                                         | Ch. 2 Technical Background                                          | ⏳ À venir   |
 |                                                                                | Ch. 3 Essentials of the R Language                                  | ⏳ À venir   |
 |                                                                                | Ch 4 Data Input and Dataframes                                      | ⏳ À venir   |
 |                                                                                | Ch. 5 Graphics                                                      | ⏳ À venir   |
@@ -83,8 +83,8 @@
 |                                                                                | Ch 22 Bayesian Statistics                                           | ⏳ À venir   |
 |                                                                                | Ch 23 Simulation Models                                             | ⏳ À venir   |
 |                                                                                |                                                                     |             |
-| 🟨 **Practical Data Science with R**                           | Ch 1 The data science process                                       | ⏳ À venir   |
-| *(2020, Manning)*                                                                               | Ch 2 Starting with R and data                                       | ⏳ À venir   |
+| 🟨 **Practical Data Science with R**                                           | Ch 1 The data science process                                       | ⏳ À venir   |
+| *(2020, Manning)*                                                              | Ch 2 Starting with R and data                                       | ⏳ À venir   |
 |                                                                                | Ch 3 Exploring data                                                 | ⏳ À venir   |
 |                                                                                | Ch 4 Managing data                                                  | ⏳ À venir   |
 |                                                                                | Ch 5 Data engineering and data shaping                              | ⏳ À venir   |
