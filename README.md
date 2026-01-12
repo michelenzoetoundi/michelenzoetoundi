@@ -54,6 +54,7 @@ For collaboration, discussion, mentorship, or project ideas:
 💬 Discord: **michelenzoetoundi** 
 💬 LinkedIn: **linkedin.com/in/michel-enzo-etoundi-121b64191**
 💬 Kaggle : **kaggle.com/michaelenzoetoundi**
+
 ---
 
 Thank you for visiting my profile.  
