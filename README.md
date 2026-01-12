@@ -53,7 +53,7 @@ For collaboration, discussion, mentorship, or project ideas:
 📧 E-mail : **mikeenzoetoundi@yahoo.com** 
 💬 Discord: **michelenzoetoundi** 
 💬 LinkedIn: **linkedin.com/in/michel-enzo-etoundi-121b64191**
-- Kaggle : **kaggle.com/michaelenzoetoundi**
+💬 Kaggle : **kaggle.com/michaelenzoetoundi**
 ---
 
 Thank you for visiting my profile.  
