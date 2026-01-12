@@ -5,7 +5,7 @@ Welcome to my GitHub space.
 ## 🚀 Who Am I?
 
 I am a graduated Telecoms Engineer with a major in Computer Science and Networks. 
-Now focusing on Data Science & AI, building skills in  mathematics, Python, R, SQL, ML & deep learning to turn data into actionable insights.
+Now, I am focusing on Data Science & AI, and building skills to turn data into actionable insights.
 
 ## 🎯 Goals
 
