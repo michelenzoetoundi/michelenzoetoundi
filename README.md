@@ -35,7 +35,7 @@ Focusing on Data Science & AI, building skills in Python, R, SQL, mathematics, M
 
 ## 📚 Training Program (Overview)
 
-I am following a structured Data Science & AI curriculum covering:
+I am following a structured Data Science & AI curriculum both in french and english covering:
 
 - **Phase 1: Mathematical Foundations** – Linear algebra & calculus for data analysis  
 - **Phase 2: Statistics & Inference** – Descriptive statistics, probability, hypothesis testing  
