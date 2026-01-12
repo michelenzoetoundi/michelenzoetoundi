@@ -52,7 +52,6 @@ You can **view my complete Data Science & AI curriculum** here:
 
 - 📚 **Manual textbook notes, exercises and summaries**
 - 🌱 **Learning mini-projects** (using GNU Octave,Python, R)
-- 📊 **Exploration of real datasets**  
 
 ---
 
