@@ -50,10 +50,10 @@ You can **view my complete Data Science & AI curriculum** here:
 ## 📬 Contact
 
 For collaboration, discussion, mentorship, or project ideas:  
-📧 E-mail : **mikeenzoetoundi@yahoo.com** 
-💬 Discord: **michelenzoetoundi** 
-💬 LinkedIn: **linkedin.com/in/michel-enzo-etoundi-121b64191**
-💬 Kaggle : **kaggle.com/michaelenzoetoundi**
+- 📧 E-mail : **mikeenzoetoundi@yahoo.com** 
+- 💬 Discord: **michelenzoetoundi** 
+- 📊 Kaggle: https://www.kaggle.com/michaelenzoetoundi  
+- 💼 LinkedIn: https://linkedin.com/in/michel-enzo-etoundi-121b64191  
 
 ---
 
