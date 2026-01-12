@@ -1,10 +1,3 @@
-# 👋 Michel Enzo Etoundi  
-## IT & Telecommunications Engineer | Data Science & AI Enthusiast
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F61?style=flat)
-
 Welcome to my GitHub space.  
 This repository is my **professional identity**, the central hub connecting my projects, my learning journey, and my long-term vision.
 
@@ -19,9 +12,9 @@ This repository is my **professional identity**, the central hub connecting my p
 
 ## 🚀 Who Am I?
 
-I hold a Bachelor's Degree in Telecoms Engineering with a major in Computer Science and Networks. 
+I am a graduated Telecoms Engineer with a major in Computer Science and Networks. 
 
-Focusing on Data Science & AI, building skills in Python, R, SQL, mathematics, ML & deep learning to turn data into actionable insights.
+Now focusing on Data Science & AI, building skills in  mathematics, Python, R, SQL, ML & deep learning to turn data into actionable insights.
 
 ## 🎯 Goals
 
@@ -35,14 +28,14 @@ Focusing on Data Science & AI, building skills in Python, R, SQL, mathematics, M
 
 ## 📚 Training Program (Overview)
 
-I am following a structured Data Science & AI curriculum both in french and english covering:
+I am following an autodidact structured Data Science & AI curriculum both in french and english covering:
 
-- **Phase 1: Mathematical Foundations** – Linear algebra & calculus for data analysis  
-- **Phase 2: Statistics & Inference** – Descriptive statistics, probability, hypothesis testing  
-- **Phase 3: Advanced Statistical Modeling (R)** – Data manipulation, visualization, regression, multivariate analysis  
-- **Phase 4: Data Engineering (SQL)** – Data extraction, transformation, queries, joins  
-- **Phase 5: Programming & Classical ML (Python)** – Python, ML libraries, basic NLP  
-- **Phase 6: Advanced AI (Deep Learning)** – TensorFlow, PyTorch, CNN, NLP, time series  
+- **1: Mathematical Foundations** – Linear algebra & calculus for data analysis  
+- **2: Statistics & Inference** – Descriptive statistics, probability, hypothesis testing  
+- **3: Advanced Statistical Modeling (R)** – Data manipulation, visualization, regression, multivariate analysis  
+- **4: Data Engineering (SQL)** – Data extraction, transformation, queries, joins  
+- **5: Programming & Classical ML (Python)** – Python, ML libraries, basic NLP  
+- **6: Advanced AI (Deep Learning)** – TensorFlow, PyTorch, CNN, NLP, time series  
 
 This curriculum is not theoretical only: each phase is validated through exercises, mini-projects, and real datasets.
 You can **view my complete Data Science & AI curriculum** here:  
@@ -50,8 +43,8 @@ You can **view my complete Data Science & AI curriculum** here:
 
 ## 🗂️ Current Projects
 
-- 📚 **Manual textbook notes, exercises and summaries**
-- 🌱 **Learning mini-projects** (using GNU Octave,Python, R)
+- 📚 **Lecture notes, exercises and summaries** building solid understanding of maths foundations for data science & AI
+- 🌱 **Linear Algebra & calculus problem-solving using GNU Octave**
   You can view my notes, exercises and projects here :
   [📥 See Current Projects](https://github.com/michelenzoetoundi/Datascience-IA/)
 ---
