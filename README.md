@@ -1,13 +1,6 @@
 Welcome to my GitHub space.  
-This repository is my **professional identity**, the central hub connecting my projects, my learning journey, and my long-term vision.
 
 ---
-## 📌 Table of Contents
-- [Who Am I?](#🚀-who-am-i)
-- [Goals](#🎯-goals)
-- [Training Program](#📚-training-program-overview)
-- [Current Projects](#🗂️-current-projects)
-- [Contact](#📬-contact)
 
 ## 🚀 Who Am I?
 
