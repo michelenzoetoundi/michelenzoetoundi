@@ -52,7 +52,7 @@ You can **view my complete Data Science & AI curriculum** here:
 
 - 📚 **Manual textbook notes, exercises and summaries**
 - 🌱 **Learning mini-projects** (using GNU Octave,Python, R)
-  You can view the my notes, exercises and projects here :
+  You can view my notes, exercises and projects here :
   [📥 See Current Projects](https://github.com/michelenzoetoundi/Datascience-IA/)
 ---
 
