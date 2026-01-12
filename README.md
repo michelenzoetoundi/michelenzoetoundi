@@ -13,13 +13,12 @@ This repository is my **professional identity**, the central hub connecting my p
 ## 🚀 Who Am I?
 
 I am a graduated Telecoms Engineer with a major in Computer Science and Networks. 
-
 Now focusing on Data Science & AI, building skills in  mathematics, Python, R, SQL, ML & deep learning to turn data into actionable insights.
 
 ## 🎯 Goals
 
-- Build a strong Data Science & AI portfolio  
-- Master modern tools: Python, R, SQL, Excel, maths & statistics, machine learning, deep learning
+- Build a strong Data Science & AI portfolio
+- Master tools: Python, R, SQL, Excel, maths & statistics, machine learning, deep learning
 - Develop projects grounded in African realities  
 - Create accessible educational content  
 - Connect with global communities (Africa, Europe, Asia, America, Oceania)
@@ -30,7 +29,7 @@ Now focusing on Data Science & AI, building skills in  mathematics, Python, R, S
 
 I am following an autodidact structured Data Science & AI curriculum both in french and english covering:
 
-- **1: Mathematical Foundations** – Linear algebra & calculus for data analysis  
+- **1: Mathematical Foundations** – Linear algebra & calculus for data science & AI foundations
 - **2: Statistics & Inference** – Descriptive statistics, probability, hypothesis testing  
 - **3: Advanced Statistical Modeling (R)** – Data manipulation, visualization, regression, multivariate analysis  
 - **4: Data Engineering (SQL)** – Data extraction, transformation, queries, joins  
@@ -56,7 +55,6 @@ You can **view my complete Data Science & AI curriculum** here:
   - **Data Science/ML/AI Discord**  
   - **Learn AI Together**  
 - GitHub: **@michelenzoetoundi**  
-- LinkedIn: **linkedin.com/in/michel-enzo-etoundi-121b64191**
 
 ---
 
@@ -65,7 +63,8 @@ You can **view my complete Data Science & AI curriculum** here:
 For collaboration, discussion, mentorship, or project ideas:  
 📧 E-mail : **mikeenzoetoundi@yahoo.com** 
 💬 Discord: **michelenzoetoundi** 
-
+💬 LinkedIn: **linkedin.com/in/michel-enzo-etoundi-121b64191**
+- Kaggle : **kaggle.com/michaelenzoetoundi**
 ---
 
 Thank you for visiting my profile.  
