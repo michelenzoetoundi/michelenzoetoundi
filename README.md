@@ -43,6 +43,7 @@ I am following a structured Data Science & AI curriculum covering:
 - **Phase 4: Data Engineering (SQL)** – Data extraction, transformation, queries, joins  
 - **Phase 5: Programming & Classical ML (Python)** – Python, ML libraries, basic NLP  
 - **Phase 6: Advanced AI (Deep Learning)** – TensorFlow, PyTorch, CNN, NLP, time series  
+
 This curriculum is not theoretical only: each phase is validated through exercises, mini-projects, and real datasets.
 You can **view my complete Data Science & AI curriculum** here:  
 [📥 See Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
