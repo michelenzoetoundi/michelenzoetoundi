@@ -13,8 +13,7 @@ This repository is my **professional identity**, the central hub connecting my p
 - [Who Am I?](#🚀-who-am-i)
 - [Goals](#🎯-goals)
 - [Training Program](#📚-training-program-overview)
-- [Current Projects](#🧠-current-projects)
-- [Upcoming Projects](#🗂️-upcoming-projects)
+- [Current Projects](#🗂️-current-projects)
 - [Communities & Networks](#🌍-communities--networks)
 - [Contact](#📬-contact)
 
@@ -44,28 +43,18 @@ I am following a structured Data Science & AI curriculum covering:
 - **Phase 4: Data Engineering (SQL)** – Data extraction, transformation, queries, joins  
 - **Phase 5: Programming & Classical ML (Python)** – Python, ML libraries, basic NLP  
 - **Phase 6: Advanced AI (Deep Learning)** – TensorFlow, PyTorch, CNN, NLP, time series  
-- **Phase 1–6: Professional & Soft Skills** – Communication, project methodology, reporting, problem-solving
-
+This curriculum is not theoretical only: each phase is validated through exercises, mini-projects, and real datasets.
 You can **view my complete Data Science & AI curriculum** here:  
 [📥 See Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
 
-## 🧠 Current Projects
+## 🗂️ Current Projects
 
-- 🌱 **Learning mini-projects** (GNU Octave,Python, R, SQL)  
-- 📊 **Exploration of real datasets**  
 - 📚 **Manual textbook notes, exercises and summaries**
+- 🌱 **Learning mini-projects** (using GNU Octave,Python, R)
+- 📊 **Exploration of real datasets**  
 
 ---
 
-## 🗂️ Upcoming Projects
-
-- Statistical analysis (R & Python)  
-- Supervised / unsupervised models  
-- Deep Learning (TensorFlow / PyTorch)  
-- AI applications focused on African realities  
-- Educational and knowledge-sharing tools
-
----
 
 ## 🌍 Communities & Networks
 
