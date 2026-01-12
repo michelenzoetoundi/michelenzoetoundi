@@ -1,4 +1,4 @@
-# 📚 Training Plan
+# 📚 Training Plan (Theory)
 
 ## 🟦 Introduction à l'algèbre linéaire et à ses applications (ERPI, 2023)
 - [ ] Ch. 1 Langage Matriciel
