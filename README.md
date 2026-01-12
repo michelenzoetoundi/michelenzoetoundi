@@ -7,7 +7,6 @@ This repository is my **professional identity**, the central hub connecting my p
 - [Goals](#🎯-goals)
 - [Training Program](#📚-training-program-overview)
 - [Current Projects](#🗂️-current-projects)
-- [Communities & Networks](#🌍-communities--networks)
 - [Contact](#📬-contact)
 
 ## 🚀 Who Am I?
@@ -46,16 +45,6 @@ You can **view my complete Data Science & AI curriculum** here:
 - 🌱 **Linear Algebra & calculus problem-solving using GNU Octave**
   You can view my notes, exercises and projects here :
   [📥 See Current Projects](https://github.com/michelenzoetoundi/Datascience-IA/)
----
-
-
-## 🌍 Communities & Networks
-
-- Discord:  
-  - **Data Science/ML/AI Discord**  
-  - **Learn AI Together**  
-- GitHub: **@michelenzoetoundi**  
-
 ---
 
 ## 📬 Contact
