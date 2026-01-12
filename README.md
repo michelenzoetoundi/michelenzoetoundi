@@ -31,7 +31,7 @@ You can **view my complete Data Science & AI curriculum** here:
 [📥 See Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
 
 🗂️ Current Projects
-- You can view my notes and projects here :
+- You can view my notes, projects and skills progression here :
   [📥 See Current Projects](https://github.com/michelenzoetoundi/Datascience-IA/)
 ---
 
