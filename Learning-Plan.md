@@ -1,4 +1,4 @@
-## 🗺️ Short-Term Learning Plan — Iterative Approach
+## 🗺️ Short-Term Learning Plan
 
 > This plan describes my **current and upcoming learning iterations**.  
 > Each iteration focuses on one core pillar, while allowing future returns and refinement as my skills evolve.
@@ -12,10 +12,5 @@
 | 🔁 **5** | **Analytical & Professional Skills** | Develop analytical thinking, communication, problem framing, and professional reasoning | Writing, communication tools | *The Well-Grounded Data Analyst* — Manning (2025)  <br> *Effective Data Analysis: Hard and Soft Skills* — Manning (2025) | Strong analytical mindset and professional data analyst posture |
 
 ---
-
-### 🧠 Notes
-- Each iteration is **focused but not isolated**: concepts may be revisited later when required.
-- Mathematical and statistical foundations are treated as **living knowledge**, not one-time checkpoints.
-- This structure reflects a **realistic professional progression** toward data science and machine learning.
 
 📌 *Future iterations will integrate Python, machine learning, optimization, and advanced modeling as these foundations mature.*
