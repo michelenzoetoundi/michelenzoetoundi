@@ -17,16 +17,19 @@ Now, I am focusing on Data Science & AI, and building skills to turn data into a
 
 ## 📚 My Work / Training
 
-I am following an autodidact structured Data Science & AI curriculum both in french and english covering:
+I am following a **structured, autodidact Data Science & Artificial Intelligence curriculum**, both in French and English, covering:
 
-- **1: Mathematical Foundations** – Linear algebra & calculus for data science & AI foundations
-- **2: Statistics & Inference** – Descriptive statistics, probability, hypothesis testing  
-- **3: Advanced Statistical Modeling (R)** – Data manipulation, visualization, regression, multivariate analysis  
-- **4: Data Engineering (SQL)** – Data extraction, transformation, queries, joins  
-- **5: Programming & Classical ML (Python)** – Python, ML libraries, basic NLP  
-- **6: Advanced AI (Deep Learning)** – TensorFlow, PyTorch, CNN, NLP, time series  
+1. Mathematical Foundations – Linear algebra and calculus for data science and artificial intelligence  
+2. Statistics and Inference – Descriptive statistics, probability, hypothesis testing  
+3. Advanced Statistical Modeling (R) – Data manipulation, visualization, regression, multivariate analysis  
+4. Data Engineering (Structured Query Language) – Data extraction, transformation, queries, joins  
+5. Programming and Classical Machine Learning (Python) – Python, machine learning libraries, basic natural language processing  
+6. Advanced Artificial Intelligence (Deep Learning) – Neural networks, convolutional networks, natural language processing, time series  
 
-This curriculum is not just theoretical: each phase is validated through exercises, mini-projects, and real datasets.
+> **This curriculum is approached iteratively, not sequentially.**  
+> Rather than completing each domain exhaustively before moving to the next, I revisit and deepen concepts as they become necessary for real projects and skill progression — reflecting a realistic career path from data analyst to data scientist and beyond.
+
+This training is not purely theoretical: each phase is reinforced through exercises, mini-projects, and real-world datasets.
 You can **view my complete Data Science & AI curriculum** here:  
 [📥 See Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
 
