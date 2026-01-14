@@ -22,7 +22,7 @@ I am following a **structured, autodidact Data Science & Artificial Intelligence
 **1. Mathematical Foundations** – Linear algebra and calculus for data science and artificial intelligence  
 **2. Statistics and Inference** – Descriptive statistics, probability, hypothesis testing  
 **3. Advanced Statistical Modeling (R)** – Data manipulation, visualization, regression, multivariate analysis  
-**4. Data Engineering (Structured Query Language)** – Data extraction, transformation, queries, joins  
+**4. Data Engineering (SQL)** – Data extraction, transformation, queries, joins  
 **5. Programming and Classical Machine Learning (Python)** – Python, machine learning libraries, basic natural language processing  
 **6. Advanced Artificial Intelligence (Deep Learning)** – Neural networks, convolutional networks, natural language processing, time series  
 
