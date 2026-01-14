@@ -33,7 +33,7 @@ This training is not purely theoretical: each phase is reinforced through exerci
 You can **view the complete list of books and concepts that i will explore throughout my journey** here:  
 [📥 See Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
 
-You can view my short-term learning plan here : [📥 See Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Learning-Plan.md)
+You can view my short-term learning plan here : [📥 See Learning-Plan](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Learning-Plan.md)
 
 🗂️ Current Projects
 - You can view my notes, projects and skills progression here :
