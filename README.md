@@ -30,8 +30,10 @@ I am following a **structured, autodidact Data Science & Artificial Intelligence
 > Rather than completing each domain exhaustively before moving to the next, I revisit and deepen concepts as they become necessary for real projects and skill progression — reflecting a realistic career path from data analyst to data scientist and beyond.
 
 This training is not purely theoretical: each phase is reinforced through exercises, mini-projects, and real-world datasets.
-You can **view my complete Data Science & AI curriculum** here:  
+You can **view the complete list of books and concepts that i will explore throughout my journey** here:  
 [📥 See Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
+
+You can view my short-term learning plan here : [📥 See Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Learning-Plan.md)
 
 🗂️ Current Projects
 - You can view my notes, projects and skills progression here :
