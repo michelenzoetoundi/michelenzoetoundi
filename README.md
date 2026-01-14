@@ -18,7 +18,7 @@ Now, I am focusing on Data Science & AI, and building skills to turn data into a
 ## 📚 My Work / Training
 
 I am following a **structured, autodidact curriculum**, both in French and English, building skills in Data Science & Artificial Intelligence.
-You can **view the complete list of books and concepts guiding my progress** here:  
+You can **view the complete list of books guiding my progress** here:  
 [📥 See Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
 
 To view my short-term learning plan =>  [📥 Learning-Plan](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Learning-Plan.md)
