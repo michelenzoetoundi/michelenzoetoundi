@@ -19,12 +19,12 @@ Now, I am focusing on Data Science & AI, and building skills to turn data into a
 
 I am following a **structured, autodidact Data Science & Artificial Intelligence curriculum**, both in French and English, covering:
 
-1. Mathematical Foundations – Linear algebra and calculus for data science and artificial intelligence  
-2. Statistics and Inference – Descriptive statistics, probability, hypothesis testing  
-3. Advanced Statistical Modeling (R) – Data manipulation, visualization, regression, multivariate analysis  
-4. Data Engineering (Structured Query Language) – Data extraction, transformation, queries, joins  
-5. Programming and Classical Machine Learning (Python) – Python, machine learning libraries, basic natural language processing  
-6. Advanced Artificial Intelligence (Deep Learning) – Neural networks, convolutional networks, natural language processing, time series  
+**1. Mathematical Foundations** – Linear algebra and calculus for data science and artificial intelligence  
+**2. Statistics and Inference** – Descriptive statistics, probability, hypothesis testing  
+**3. Advanced Statistical Modeling (R)** – Data manipulation, visualization, regression, multivariate analysis  
+**4. Data Engineering (Structured Query Language)** – Data extraction, transformation, queries, joins  
+**5. Programming and Classical Machine Learning (Python)** – Python, machine learning libraries, basic natural language processing  
+**6. Advanced Artificial Intelligence (Deep Learning)** – Neural networks, convolutional networks, natural language processing, time series  
 
 > **This curriculum is approached iteratively, not sequentially.**  
 > Rather than completing each domain exhaustively before moving to the next, I revisit and deepen concepts as they become necessary for real projects and skill progression — reflecting a realistic career path from data analyst to data scientist and beyond.
