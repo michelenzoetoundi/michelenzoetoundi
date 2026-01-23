@@ -3,7 +3,7 @@ Welcome to my GitHub space.
 ---
 
 ## 🚀 Who Am I?
-Hi ! I’m Michel Enzo, a Telecommunications Engineer currently training to become a Data Scientist. I turn data into actionable insights through hands-on projects, exercises, and portfolio pipelines.
+Hi ! I’m Michel Enzo, a Telecommunications Engineer building skills in Data Science & AI. I turn data into actionable insights through hands-on projects, exercises, and portfolio pipelines.
 I speak both English and French languages.
 
 ![GitHub stars](https://img.shields.io/github/stars/michelenzoetoundi?style=social)
@@ -12,7 +12,7 @@ I speak both English and French languages.
 ![Kaggle](https://img.shields.io/badge/Kaggle-Michel%20Enzo%20Etoundi-orange)
 
 ## 🌍 Long-Term Vision
-- Obtain a formal **Data Scientist**position, be able to **explain and justify models**
+- Obtain a formal **Data Scientist** position, be able to **explain and justify models**
 - Build useful, contextualized, and responsible projects
 - Connect data science with ethics, society, and education
 - Engage with technical communities in Africa and worldwide
