@@ -37,15 +37,6 @@
 
 ---
 
-### 💡 Methodology
-1. 📖 **Theory:** Read chapters, understand concepts  
-2. 📝 **Exercises:** Immediate consolidation  
-3. 💻 **Projects:** Small → Medium → Large  
-4. 📂 **Documentation:** Obsidian to track and synthesize learning  
-5. 🌐 **Versioning / Sharing:** GitHub & Kaggle for visibility and feedback
-
----
-
 ### ✅ Key Takeaways
 - Iterative approach ensures **progressive skill mastery**.  
 - Each iteration builds on the previous: **Data Analyst → Data Scientist → ML Engineer**.  
