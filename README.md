@@ -21,7 +21,7 @@ Hi! I’m Michel Enzo, a Telecommunications Engineer currently training to becom
 I am following a **structured, autodidact curriculum**, both in French and English, building skills in Data Science & Artificial Intelligence.
 📖 Explore my full **Data Science & AI Curriculum** → [📥 See Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
 
-📈 Check my **short-term learning plan** →  [📥 Learning-Plan](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Learning-Plan.md)
+📈 Check my **skills progression plan** →  [📥 Learning-Plan](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Learning-Plan.md)
 
 💻 Browse my **projects and portfolio** → [📥 Portfolio](https://github.com/michelenzoetoundi/Datascience-IA/)
 
