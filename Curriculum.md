@@ -1,7 +1,7 @@
 # 🟢 Complete Curriculum: Data Science & AI
 ---
 
-## 1️⃣ Mathematical Foundations and Logic
+## 1️1) Mathematical Foundations and Logic
 **Goal:** acquire the mathematical and analytical tools for advanced learning in Data Science and AI.  
 
 | 📘 Subject                | 📚 Books / Resources                                                 | 🛠 Practice / Projects            | 🖥 Tools |
@@ -17,7 +17,7 @@
 
 ---
 
-## 2️⃣ Statistics and Probability
+## 2) Statistics and Probability
 **Goal:** master data collection, analysis, and inference.  
 
 | 📘 Subject                                | 📚 Books / Resources                                            | 🛠 Practice / Projects            | 🖥 Tools |
@@ -33,7 +33,7 @@
 
 ---
 
-## 3️⃣ Data Science Tools
+## 3) Data Science Tools
 **Goal:** handle and prepare data, visualize, and manage databases.  
 
 | 🛠 Tool / Language | 📚 Books / Resources                           | 🛠 Practice / Projects                                       | 🖥 Tools |
@@ -49,7 +49,7 @@
 
 ---
 
-## 4️⃣ Machine Learning
+## 4) Machine Learning
 **Goal:** understand and apply classical ML models.  
 
 | 🤖 Subject | 📚 Books / Resources | 🛠 Practice / Projects | 🖥 Tools |
@@ -65,7 +65,7 @@
 
 ---
 
-## 5️⃣ Deep Learning
+## 5) Deep Learning
 **Goal:** master neural networks and modern architectures.  
 
 | 🧠 Topic | 📚 Books / Resources | 🛠 Practice / Projects | 🖥 Tools |
@@ -81,7 +81,7 @@
 
 ---
 
-## 6️⃣ Portfolio Projects and Competitions
+## 6) Portfolio Projects and Competitions
 **Goal:** apply all skills and create a showcase portfolio.  
 
 - 🟢 Small projects: Kaggle notebooks, R/Python/SQL exercises  
