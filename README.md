@@ -7,7 +7,7 @@ Hi! I’m Michel Enzo, a Telecommunications Engineer currently training to becom
 ![GitHub stars](https://img.shields.io/github/stars/michelenzoetoundi?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/michelenzoetoundi?style=social)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Michel%20Enzo%20Etoundi-blue)
-![Kaggle](https://img.shields.io/badge/Kaggle-Michael%20Enzo%20Etoundi-orange)
+![Kaggle](https://img.shields.io/badge/Kaggle-Michel%20Enzo%20Etoundi-orange)
 ## 🌍 Long-Term Vision
 - Become a **Data Scientist able to explain and justify models**
 - Build useful, contextualized, and responsible projects
