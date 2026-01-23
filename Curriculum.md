@@ -22,8 +22,7 @@
 
 | 📘 Subject                                | 📚 Books / Resources                                            | 🛠 Practice / Projects            | 🖥 Tools |
 | ----------------------------------------- | ----------------------------------------------------------------- | -------------------------------- | --------- |
-| 📊 Descriptive Statistics & Inference     | *Introductory Statistics :  Exploring the World Through Data (3rd Edition)*, 
-*Statistics for Managers Using Microsoft Excel (Pearson, 2020)*                                                | Exercises & small/medium projects | Excel     |
+| 📊 Descriptive Statistics & Inference     | *Introductory Statistics :  Exploring the World Through Data (3rd Edition)*, *Statistics for Managers Using Microsoft Excel (Pearson, 2020)*                                                | Exercises & small/medium projects | Excel     |
 | 📊 Probability & Distributions            | Same books                                                       | Simulations & exercises           | Excel     |
 | 📊 Hypothesis Testing, ANOVA, Regression  | Same books                                                        | Medium projects (real datasets)  | Excel     |
 
