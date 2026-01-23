@@ -1,4 +1,4 @@
-# 🟢 My Data Science & AI Curriculum Learning Plan
+# 🟢 My Data Science & AI Skills Building Plan
 
 ---
 
@@ -31,9 +31,9 @@
 
 | Iteration | Goal / Level | Layers Covered | Focus / Scope |
 |-----------|-------------|----------------|---------------|
-| 1️⃣ First Iteration | Data Analyst | 1️⃣ Layer 1 (Linear Algebra only), 2️⃣ Layer 2, 3️⃣ Layer 3, 6️⃣ Layer 6  | Core data analysis skills: linear algebra, statistics, R/Python/SQL tools, data cleaning, visualization. Outcome: small/medium projects and dashboards. |
-| 2️⃣ Second Iteration | Data Scientist | 1️⃣ Remaining Layer 1, 4️⃣ Layer 4, optional Layer 5 intro, 6️⃣ Layer 6  | Deepen math, machine learning, feature engineering, intermediate deep learning. Outcome: pipelines, ML models, Kaggle datasets. |
-| 3️⃣ Third Iteration | Machine Learning Engineer | 5️⃣ Layer 5, 6️⃣ Layer 6 | Master deep learning and complex ML pipelines, build portfolio projects for real-world applications. Outcome: production-level ML/DL systems, competitions, full portfolio. |
+| 1. First Iteration | Data Analyst | Layer 1 (Linear Algebra only), Layer 2, Layer 3, Layer 6  | Core data analysis skills: linear algebra, statistics, R/Python/SQL tools, data cleaning, visualization. Outcome: small/medium projects and dashboards. |
+| 2. Second Iteration | Data Scientist | Remaining Layer 1 (Calculus), Layer 4, Layer 6  | Deepen math, machine learning, feature engineering, intermediate deep learning. Outcome: pipelines, ML models, Kaggle datasets. |
+| 3. Third Iteration | Machine Learning Engineer | Layer 5, Layer 6 | Master deep learning and complex ML pipelines, build portfolio projects for real-world applications. Outcome: production-level ML/DL systems, competitions, full portfolio. |
 
 ---
 
