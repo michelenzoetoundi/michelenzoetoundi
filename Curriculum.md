@@ -1,7 +1,7 @@
 # 🟢 Complete Curriculum: Data Science & AI
 ---
 
-## 1️1) Mathematical Foundations and Logic
+## 1) Mathematical Foundations and Logic
 **Goal:** acquire the mathematical and analytical tools for advanced learning in Data Science and AI.  
 
 | 📘 Subject                | 📚 Books / Resources                                                 | 🛠 Practice / Projects            | 🖥 Tools |
