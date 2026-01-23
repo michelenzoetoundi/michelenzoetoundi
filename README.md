@@ -21,23 +21,25 @@ I speak both English and French languages.
 
 ## 📚 My Work & Training
 
-I am currently building my skills in Data Science and AI through continuous practice.
+I am actively building practical skills in Data Science and AI through project-based learning.
 
-My learning is project-oriented:
+My work follows a structured methodology:
 
-- I study core concepts step by step
-- I apply them through exercises and real projects
-- I document my progress and share my work publicly
+- solid foundations (math, statistics, programming)
 
-This GitHub reflects my journey of learning by doing, from data analysis to machine learning, with projects that grow in complexity over time.
+- progressive projects (analysis → ML → pipelines)
 
-🔗 What you can explore
+- clear documentation and versioning (GitHub, Kaggle)
 
-- 📖 My **learning curriculum** → [📥 See Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
+This repository showcases my skill development process and applied projects, not just final results.
 
-- 📈 My **skills-building plan** →  [📥 Learning-Plan](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Learning-Plan.md)
+## 🔗 Access my work
 
-- 💻 My **projects and portfolio** → [📥 Portfolio](https://github.com/michelenzoetoundi/Datascience-IA/)
+- 📖 Curriculum → [📥 See Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
+
+- 📈 Learning roadmap →  [📥 Learning-Plan](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Learning-Plan.md)
+
+- 💻 Portfolio → [📥 Portfolio](https://github.com/michelenzoetoundi/Datascience-IA/)
 
 ---
 
