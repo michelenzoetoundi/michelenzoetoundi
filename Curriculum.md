@@ -9,7 +9,7 @@
 | 🟦 Linear Algebra          | *Introduction à l’algèbre linéaire et à ses applications* (ERPI, 2023) | Exercises & small/medium projects | Octave    |
 | 🟦 Differential Calculus   | *Calcul différentiel* (Chenelière, 2023)                               | Exercises & projects              | Octave    |
 | 🟦 Integral Calculus       | *Calcul intégral* (Chenelière, 2016)                                   | Exercises & projects              | Octave    |
-| 🟦 Linear Programming      | Same Linear Algebra book                                               | Small/medium projects             | Octave    |
+| 🟦 Linear Programming      | *Introduction à l’algèbre linéaire et à ses applications* (ERPI, 2023) | Small/medium projects             | Octave    |
 
 **✅ Practical Deliverables:**
 - Obsidian notebooks for each chapter  
@@ -22,8 +22,9 @@
 
 | 📘 Subject                                | 📚 Books / Resources                                            | 🛠 Practice / Projects            | 🖥 Tools |
 | ----------------------------------------- | ----------------------------------------------------------------- | -------------------------------- | --------- |
-| 📊 Descriptive Statistics & Inference     | *Introductory Statistics* & *Statistics for Managers Using Excel* | Exercises & small/medium projects | Excel     |
-| 📊 Probability & Distributions            | *Statistics for Managers*                                         | Simulations & exercises           | Excel     |
+| 📊 Descriptive Statistics & Inference     | *Introductory Statistics :  Exploring the World Through Data (3rd Edition)*, 
+*Statistics for Managers Using Microsoft Excel (Pearson, 2020)*                                                | Exercises & small/medium projects | Excel     |
+| 📊 Probability & Distributions            | Same books                                                       | Simulations & exercises           | Excel     |
 | 📊 Hypothesis Testing, ANOVA, Regression  | Same books                                                        | Medium projects (real datasets)  | Excel     |
 
 **✅ Practical Deliverables:**
@@ -38,9 +39,9 @@
 
 | 🛠 Tool / Language | 📚 Books / Resources                           | 🛠 Practice / Projects                                       | 🖥 Tools |
 | ------------------ | ------------------------------------------------ | ----------------------------------------------------------- | --------- |
-| 🟩 R               | *Practical Data Science with R*, *The R Book*    | Dataset analysis, statistical modeling, visualization      | R         |
-| 🟩 SQL             | *Sams Teach Yourself SQL in 10 Minutes*          | Advanced queries, joins, transactions, mini-projects       | SQL       |
-| 🟩 Python          | *Python Data Science Handbook*, *Pandas Workout* | Data manipulation, cleaning, visualization, mini-projects | Python    |
+| 🟩 R               | *Practical Data Science with R (Manning, 2020)*, *The R Book (Wiley, 3rd Edition)*    | Dataset analysis, statistical modeling, visualization      | R         |
+| 🟩 SQL             | *Sams Teach Yourself SQL in 10 Minutes (5th Ed.)*                                     | Advanced queries, joins, transactions, mini-projects       | SQL       |
+| 🟩 Python          | *Python Data Science Handbook (0'reilly, 2023)*, *Pandas Workout (Manning, 2024)*     | Data manipulation, cleaning, visualization, mini-projects | Python    |
 
 **✅ Practical Deliverables:**
 - R & Python notebooks on GitHub / Kaggle  
@@ -54,7 +55,7 @@
 
 | 🤖 Subject | 📚 Books / Resources | 🛠 Practice / Projects | 🖥 Tools |
 |------------|----------------------|---------------------|----------|
-| 🔹 ML Introduction | *Python Data Science Handbook*, *Machine Learning with TensorFlow* | Small projects: classification / regression | Python, scikit-learn, TensorFlow |
+| 🔹 ML Introduction | *Python Data Science Handbook (0'reilly, 2023)*, *Machine Learning with TensorFlow (Manning, 2020)* | Small projects: classification / regression | Python, scikit-learn, TensorFlow |
 | 🔹 Linear & Logistic Regression | Same books | Small/medium projects | Python |
 | 🔹 SVM, Random Forest, Clustering | Same books | Medium projects | Python |
 | 🔹 Model Evaluation | Same books | Cross-validation, metrics | Python |
@@ -70,7 +71,7 @@
 
 | 🧠 Topic | 📚 Books / Resources | 🛠 Practice / Projects | 🖥 Tools |
 |---------|----------------------|---------------------|----------|
-| 🔹 DL Basics & Math | *Math and Architectures of Deep Learning*, *Deep Learning with Python* | Forward/backprop exercises | Python, TensorFlow, PyTorch |
+| 🔹 DL Basics & Math | *Math and Architectures of Deep Learning (Manning,2024)*, *Deep Learning with Python (Manning, 2025)* | Forward/backprop exercises | Python, TensorFlow, PyTorch |
 | 🔹 CNN / Computer Vision | *Deep Learning with Python* | Image classification, segmentation | Python, Keras |
 | 🔹 RNN / NLP | Same books | Chatbot, text classification | Python, Keras |
 | 🔹 Generative / Transformers | Same books | Text & image generation | Python, PyTorch |
