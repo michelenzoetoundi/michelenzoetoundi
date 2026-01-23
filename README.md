@@ -12,7 +12,7 @@ I speak both English and French languages.
 ![Kaggle](https://img.shields.io/badge/Kaggle-Michel%20Enzo%20Etoundi-orange)
 
 ## 🌍 Long-Term Vision
-- Become a **Data Scientist able to explain and justify models**
+- Obtain a formal **Data Scientist**position, be able to **explain and justify models**
 - Build useful, contextualized, and responsible projects
 - Connect data science with ethics, society, and education
 - Engage with technical communities in Africa and worldwide
