@@ -35,7 +35,7 @@ This repository showcases my skill development process and applied projects, not
 
 ## 🔗 Access my work
 
-- 📖 Curriculum → [📥 See Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
+- 📖 Curriculum → [📥 Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
 
 - 📈 Learning roadmap →  [📥 Learning-Plan](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Learning-Plan.md)
 
