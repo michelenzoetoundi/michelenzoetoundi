@@ -3,8 +3,10 @@ Welcome to my GitHub space.
 ---
 
 ## 🚀 Who Am I?
-Hi ! I’m Michel Enzo, a Telecommunications Engineer building skills in Data Science & AI. I turn data into actionable insights through hands-on projects, exercises, and portfolio pipelines.
-I speak both English and French languages.
+Hi! I’m Michel Enzo, a Telecommunications Engineer with a strong scientific mindset, currently building skills in Data Science & Applied AI.
+I turn data into actionable insights through hands-on projects, structured exercises, and end-to-end portfolio pipelines, with a strong focus on mathematics, statistics, and real-world system understanding.
+
+I speak both English and French.
 
 ![GitHub stars](https://img.shields.io/github/stars/michelenzoetoundi?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/michelenzoetoundi?style=social)
@@ -13,25 +15,22 @@ I speak both English and French languages.
 
 ## 🌍 Long-Term Vision
 
-- Build useful, contextualized, and responsible projects
+- Build useful, contextualized, and responsible data-driven solutions
 - Connect data science with ethics, society, and education
-- Engage with technical communities in Africa and worldwide
-
+- Engage with technical and scientific communities in Africa and worldwide
 ---
 
 ## 📚 My Work & Training
 
-I am actively building practical skills in Data Science and AI through project-based learning.
+I am actively building practical and theoretical foundations in Data Science & AI through project-based learning.
 
 My work follows a structured methodology:
 
-- solid foundations (math, statistics, programming)
-
-- progressive projects (analysis → ML → pipelines)
-
+- solid foundations (mathematics, statistics, programming)
+- progressive projects (analysis → modeling → ML → pipelines)
 - clear documentation and versioning (GitHub, Kaggle)
 
-This repository showcases my skill development process and applied projects, not just final results.
+This repository documents my learning journey, reasoning process, and applied projects — not just final results.
 
 ## 🔗 Access my work
 
