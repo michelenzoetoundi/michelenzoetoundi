@@ -11,7 +11,7 @@
 
 | Aspect | Description |
 |--------|------------|
-| **Focus** | Linear Algebra only (other math topics like Calculus will be addressed in later phases). |
+| **Focus** | Linear Algebra |
 | **Objectives** | - Understand vector spaces, matrices, and linear transformations<br>- Solve systems of linear equations<br>- Learn matrix operations and applications in data science<br>- Build foundational skills for subsequent statistical and machine learning methods |
 | **Key Competencies to Acquire** | - Matrix manipulations and operations<br>- Understanding vector and matrix representations of data<br>- Solving linear systems efficiently<br>- Applying linear algebra concepts in Python/R for basic data analysis |
 | **Role in Phase 1** | Provides the mathematical backbone for statistics, data wrangling, and ML algorithms later |
