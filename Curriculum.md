@@ -1,7 +1,7 @@
 # 🟢 Phase 1 — Data Analyst Skills
 
 > This phase corresponds to building the foundational skills of a data analyst.  
-> Focus: Linear Algebra, Introductory Statistics, and the first practical tool (Excel) for data analysis.
+> Focus: 
 
 ---
 
