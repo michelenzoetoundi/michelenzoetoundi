@@ -1,55 +1,52 @@
-# 🟢 My Data Science & AI Curriculum Learning Plan
+# 🟢 Phase 1 — Data Analyst Skills
+
+> This phase corresponds to building the foundational skills of a data analyst.  
+> Focus: Linear Algebra, Introductory Statistics, and the first practical tool (Excel) for data analysis.
 
 ---
 
-## 🔺 Phase 1: Data Analyst Skills
+## 📘 Module 1 — Mathematical Foundations: Linear Algebra
 
-**Objective:** Build foundational skills in data analysis, statistics, and introductory data science tools.
+**Book:** *Introduction à l'algèbre linéaire et à ses applications (ERPI, 2023)*  
 
----
-
-### 📘 Module 1: Mathematics – Linear Algebra
-
-**Book:** Introduction à l'algèbre linéaire et à ses applications (ERPI, 2023)  
-**Focus:** Linear algebra concepts applied to data problems  
-**Skills to Acquire:**
-- Vector and matrix operations
-- Systems of linear equations
-- Determinants and matrix inverses
-- Eigenvalues and eigenvectors (basic)
-- Applying linear algebra to data analysis contexts  
-**Outcome:** Strong mathematical foundation for statistics and subsequent data analysis modules
+| Aspect | Description |
+|--------|------------|
+| **Focus** | Linear Algebra only (other math topics like Calculus will be addressed in later phases). |
+| **Objectives** | - Understand vector spaces, matrices, and linear transformations<br>- Solve systems of linear equations<br>- Learn matrix operations and applications in data science<br>- Build foundational skills for subsequent statistical and machine learning methods |
+| **Key Competencies to Acquire** | - Matrix manipulations and operations<br>- Understanding vector and matrix representations of data<br>- Solving linear systems efficiently<br>- Applying linear algebra concepts in Python/R for basic data analysis |
+| **Role in Phase 1** | Provides the mathematical backbone for statistics, data wrangling, and ML algorithms later |
 
 ---
 
-### 📘 Module 2: Introduction to Data Science Tools & Statistics
+## 📘 Module 2 — Statistics & Data Tools
 
-**Books:**
-- Statistics for Managers Using Microsoft Excel (Pearson, 2020)  
-- Introductory Statistics: Exploring the World Through Data, 3rd Edition (Gould, Wong, Ryan)
+**Books in Logical Order:**
 
-**Focus:**  
-- Excel as a first data analysis tool  
-- Exploratory Data Analysis (EDA)  
-- Descriptive statistics and interpreting data  
-- Understanding the Data Cycle and statistical reasoning
+### 1️⃣ *Introductory Statistics: Exploring the World Through Data (Gould, Wong, Ryan, 3rd Ed.)*
 
-**Skills to Acquire:**
-- Handle, clean, and organize datasets in Excel  
-- Create visualizations (charts, graphs) to explore variation  
-- Calculate measures of central tendency and dispersion  
-- Formulate statistical investigative questions  
-- Apply the Data Cycle to simple datasets  
-- Begin critical evaluation of data and results  
+| Aspect | Description |
+|--------|------------|
+| **Focus** | Conceptual understanding of statistics and the statistical investigation process |
+| **Objectives** | - Learn to critically analyze data<br>- Understand the Data Cycle: Ask Questions → Consider Data → Analyze Data → Interpret Data<br>- Explore data visualization, numerical summaries, and descriptive statistics<br>- Begin formulating statistical investigative questions |
+| **Key Competencies to Acquire** | - Exploratory Data Analysis (EDA)<br>- Understanding variation and distributions<br>- Using graphs and summaries to interpret data<br>- Basic probability and statistical inference |
+| **Role in Phase 1** | Bridges theoretical concepts of statistics with practical applications; prepares students to handle real data |
 
-**Outcome:** Ability to perform entry-level data analysis, visualize data, and communicate insights
+### 2️⃣ *Statistics for Managers Using Microsoft Excel (Pearson, 2020)*
+
+| Aspect | Description |
+|--------|------------|
+| **Focus** | Practical application of statistics concepts using Excel |
+| **Objectives** | - Apply statistical methods to real-world datasets<br>- Develop proficiency in Excel for data analysis and visualization<br>- Perform descriptive and inferential analyses using built-in Excel functions |
+| **Key Competencies to Acquire** | - Excel-based data wrangling and visualization<br>- Implementing statistical formulas and interpreting results<br>- Integrating conceptual understanding from Introductory Statistics into practical work |
+| **Role in Phase 1** | Bridges statistical theory with practical data analysis tools; prepares for advanced modeling and ML in Phase 2 |
 
 ---
 
-### 🔄 Phase 1 Overview
+## 🎯 Phase 1 Summary
 
-| Module | Book | Focus | Skills / Outcome |
-|--------|------|-------|----------------|
-| Module 1 | Introduction à l'algèbre linéaire et à ses applications (ERPI, 2023) | Linear Algebra | Foundations for data modeling and analysis |
-| Module 2 | Statistics for Managers Using Microsoft Excel (Pearson, 2020) | Excel + Intro Stats | Basic data analysis, visualization, Data Cycle application |
-| Module 2 | Introductory Statistics: Exploring the World Through Data, 3rd Ed. | Intro Stats concepts | Descriptive statistics, exploratory data analysis, critical thinking |
+| Aspect | Description |
+|--------|------------|
+| **Goal** | Build foundational data analysis skills |
+| **Focus Areas** | 1. Mathematical Foundations (Linear Algebra)<br>2. Statistical Thinking and Exploratory Data Analysis<br>3. Practical Tools (Excel) |
+| **Outcome** | Ability to understand, summarize, and visualize data; make basic inferences; and use Excel for practical data analysis |
+| **Next Step** | Phase 2 — deeper statistics, probability, and programming for data science |
