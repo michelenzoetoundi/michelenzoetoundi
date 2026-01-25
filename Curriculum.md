@@ -7,7 +7,7 @@
 
 ## 📘 Module 1 — Mathematical Foundations: Linear Algebra
 
-**Book:** *Introduction à l'algèbre linéaire et à ses applications (ERPI, 2023)*  
+**Book 1:** *Introduction à l'algèbre linéaire et à ses applications (ERPI, 2023)*  
 
 | Aspect | Description |
 |--------|------------|
@@ -20,9 +20,7 @@
 
 ## 📘 Module 2 — Statistics & Data Tools
 
-**Books in Logical Order:**
-
-### 1️⃣ *Introductory Statistics: Exploring the World Through Data (Gould, Wong, Ryan, 3rd Ed.)*
+**Book 1:** *Introductory Statistics: Exploring the World Through Data (Gould, Wong, Ryan, 3rd Ed.)*
 
 | Aspect | Description |
 |--------|------------|
@@ -31,7 +29,7 @@
 | **Key Competencies to Acquire** | - Exploratory Data Analysis (EDA)<br>- Understanding variation and distributions<br>- Using graphs and summaries to interpret data<br>- Basic probability and statistical inference |
 | **Role in Phase 1** | Bridges theoretical concepts of statistics with practical applications; prepares students to handle real data |
 
-### 2️⃣ *Statistics for Managers Using Microsoft Excel (Pearson, 2020)*
+**Book 2:** *Statistics for Managers Using Microsoft Excel (Pearson, 2020)*
 
 | Aspect | Description |
 |--------|------------|
@@ -39,5 +37,3 @@
 | **Objectives** | - Apply statistical methods to real-world datasets<br>- Develop proficiency in Excel for data analysis and visualization<br>- Perform descriptive and inferential analyses using built-in Excel functions |
 | **Key Competencies to Acquire** | - Excel-based data wrangling and visualization<br>- Implementing statistical formulas and interpreting results<br>- Integrating conceptual understanding from Introductory Statistics into practical work |
 | **Role in Phase 1** | Bridges statistical theory with practical data analysis tools; prepares for advanced modeling and ML in Phase 2 |
-
----
