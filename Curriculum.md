@@ -1,18 +1,55 @@
-# 📘 Phase 1 — Data Analyst Skills
+# 🟢 My Data Science & AI Curriculum Learning Plan
 
 ---
 
-## 🎯 Phase Objective
-Acquire the fundamental skills to **analyze and visualize data**, ask meaningful statistical questions, and use initial data science tools.
+## 🔺 Phase 1: Data Analyst Skills
+
+**Objective:** Build foundational skills in data analysis, statistics, and introductory data science tools.
 
 ---
 
-## 🏫 Academic Modules
+### 📘 Module 1: Mathematics – Linear Algebra
 
-| Module | Academic Name | Main Objectives | Skills to Acquire | Books / Resources | Tools / Practice |
-|--------|---------------|----------------|-----------------|-----------------|----------------|
-| 1 | Linear Algebra Foundations | Core math foundations for data analysis | Vectors, matrices, matrix operations, linear transformations, solving linear systems | Introduction to Linear Algebra and Its Applications (ERPI, 2023) | Exercises & small/medium projects |
-| 2 | Applied Statistics & Introductory Tools | Understand and apply fundamental statistical concepts and handle data | Descriptive statistics, probability, hypothesis testing, distribution analysis, data visualization, basic dataset handling | Statistics for Managers Using Microsoft Excel (Pearson, 2020), Introductory Statistics: Exploring the World Through Data (3rd Edition, Gould, Wong, Ryan) | Excel: tables, charts, statistical functions, mini-projects, Data Projects |
-| 3 | Intro to Data Science Tools | Introduction to languages and tools for data manipulation and analysis | Data wrangling, visualization, mini-projects in Python and R, basic SQL queries | Practical Data Science with R (Manning, 2020), Python Data Science Handbook (O'Reilly, 2017), Sams Teach Yourself SQL in 10 Minutes (5th Edition) | R, Python, SQL: notebooks, mini-projects, visualizations, GitHub / Kaggle |
+**Book:** Introduction à l'algèbre linéaire et à ses applications (ERPI, 2023)  
+**Focus:** Linear algebra concepts applied to data problems  
+**Skills to Acquire:**
+- Vector and matrix operations
+- Systems of linear equations
+- Determinants and matrix inverses
+- Eigenvalues and eigenvectors (basic)
+- Applying linear algebra to data analysis contexts  
+**Outcome:** Strong mathematical foundation for statistics and subsequent data analysis modules
 
 ---
+
+### 📘 Module 2: Introduction to Data Science Tools & Statistics
+
+**Books:**
+- Statistics for Managers Using Microsoft Excel (Pearson, 2020)  
+- Introductory Statistics: Exploring the World Through Data, 3rd Edition (Gould, Wong, Ryan)
+
+**Focus:**  
+- Excel as a first data analysis tool  
+- Exploratory Data Analysis (EDA)  
+- Descriptive statistics and interpreting data  
+- Understanding the Data Cycle and statistical reasoning
+
+**Skills to Acquire:**
+- Handle, clean, and organize datasets in Excel  
+- Create visualizations (charts, graphs) to explore variation  
+- Calculate measures of central tendency and dispersion  
+- Formulate statistical investigative questions  
+- Apply the Data Cycle to simple datasets  
+- Begin critical evaluation of data and results  
+
+**Outcome:** Ability to perform entry-level data analysis, visualize data, and communicate insights
+
+---
+
+### 🔄 Phase 1 Overview
+
+| Module | Book | Focus | Skills / Outcome |
+|--------|------|-------|----------------|
+| Module 1 | Introduction à l'algèbre linéaire et à ses applications (ERPI, 2023) | Linear Algebra | Foundations for data modeling and analysis |
+| Module 2 | Statistics for Managers Using Microsoft Excel (Pearson, 2020) | Excel + Intro Stats | Basic data analysis, visualization, Data Cycle application |
+| Module 2 | Introductory Statistics: Exploring the World Through Data, 3rd Ed. | Intro Stats concepts | Descriptive statistics, exploratory data analysis, critical thinking |
