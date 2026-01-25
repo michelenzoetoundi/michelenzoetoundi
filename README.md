@@ -34,9 +34,7 @@ This repository documents my learning journey, reasoning process, and applied pr
 
 ## 🔗 Access my work
 
-- 📖 Curriculum → [📥 Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
-
-- 📈 Learning roadmap →  [📥 Learning-Plan](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Learning-Plan.md)
+- 📖 📈 Learning roadmap  → [📥 Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
 
 - 💻 Portfolio → [📥 Portfolio](https://github.com/michelenzoetoundi/Datascience-IA/)
 
