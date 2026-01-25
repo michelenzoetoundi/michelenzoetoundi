@@ -41,12 +41,3 @@
 | **Role in Phase 1** | Bridges statistical theory with practical data analysis tools; prepares for advanced modeling and ML in Phase 2 |
 
 ---
-
-## 🎯 Phase 1 Summary
-
-| Aspect | Description |
-|--------|------------|
-| **Goal** | Build foundational data analysis skills |
-| **Focus Areas** | 1. Mathematical Foundations (Linear Algebra)<br>2. Statistical Thinking and Exploratory Data Analysis<br>3. Practical Tools (Excel) |
-| **Outcome** | Ability to understand, summarize, and visualize data; make basic inferences; and use Excel for practical data analysis |
-| **Next Step** | Phase 2 — deeper statistics, probability, and programming for data science |
