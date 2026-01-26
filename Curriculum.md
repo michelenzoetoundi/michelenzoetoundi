@@ -95,8 +95,91 @@
 | **Role**                        | Serves as a bridge between foundational Python/pandas skills and applied machine learning; prepares learners to implement end-to-end data science pipelines on real-world datasets                                                                                                                                 |
 
 ----
+## 📘 Module 6 — Portfolio: Data Analyst Projects
+
+|Aspect|Description|
+|---|---|
+|**Focus**|Practical projects consolidating Phase 1 skills|
+|**Objectives**|- Apply linear algebra, statistics, SQL, R, and Python to real datasets  <br>- Perform EDA, visualization, and reporting  <br>- Build reproducible notebooks and dashboards|
+|**Key Competencies to Acquire**|- End-to-end data analysis workflow  <br>- Clean and manipulate datasets  <br>- Visualize trends and insights  <br>- Communicate results effectively|
+|**Role**|Validates foundational data analysis skills through hands-on projects; prepares learner for Phase 2 (Data Science & ML)|
+
+---
 
 # 🟢 Phase 2 — Data Scientist Skills
 
 >This phase focuses on applying foundational skills to real-world data, building predictive models, and developing ML pipelines.
 
+### 📘 Module 1 — Calcul Différentiel
+
+**Book:** _Calcul Différentiel (Chenelière, 2023)_
+
+|Aspect|Description|
+|---|---|
+|**Focus**|Foundations of differential calculus for real-valued functions|
+|**Objectives**|- Understand algebraic notions and function behavior  <br>- Learn limits and continuity  <br>- Master derivatives and their applications  <br>- Analyze functions, rates of change, and optimization problems|
+|**Key Competencies to Acquire**|- Compute derivatives of algebraic and implicit functions  <br>- Apply derivatives to solve optimization problems  <br>- Analyze function behavior and use L’Hospital’s rule  <br>- Understand rate of change and applied calculus concepts|
+|**Role**|Provides mathematical tools needed to model change and optimize functions, essential for ML algorithms|
+
+---
+
+### 📘 Module 2 — Calcul Intégral
+
+**Book:** _Calcul Intégral (Chenelière, 2016)_
+
+|Aspect|Description|
+|---|---|
+|**Focus**|Foundations of integral calculus for analysis and modeling|
+|**Objectives**|- Learn integration techniques  <br>- Understand definite and indefinite integrals  <br>- Connect differentiation and integration  <br>- Apply integrals to real-world problems|
+|**Key Competencies to Acquire**|- Perform integration and solve definite integrals  <br>- Apply fundamental theorems of calculus  <br>- Use integrals in modeling cumulative quantities and areas  <br>- Solve applied problems in physics, data science, and ML|
+|**Role**|Complements differential calculus, enabling understanding of accumulation, area under curves, and advanced modeling concepts in ML|
+
+---
+
+### 📘 Module 3 — Machine Learning with TensorFlow
+
+**Book:** _Machine Learning with TensorFlow (Manning, 2020)_
+
+|Aspect|Description|
+|---|---|
+|**Focus**|Practical ML using TensorFlow|
+|**Objectives**|- Learn ML fundamentals  <br>- Implement regression, classification, clustering, sequence models  <br>- Explore deep learning architectures  <br>- Apply ML to real-world datasets|
+|**Key Competencies to Acquire**|- Build regression and classification models  <br>- Implement neural networks  <br>- Understand CNNs, RNNs, autoencoders, sequence models  <br>- Translate problems into ML workflows|
+|**Role**|Hands-on ML experience bridging theory with practice|
+
+---
+
+### 📘 Module 4 — Math and Architectures of Deep Learning
+
+**Book:** _Math and Architectures of Deep Learning (Manning, 2024)_
+
+|Aspect|Description|
+|---|---|
+|**Focus**|Mathematical foundations and architecture of DL|
+|**Objectives**|- Understand linear algebra, probability, calculus in ML  <br>- Learn neural network structures and optimization  <br>- Explore Bayesian and generative modeling  <br>- Model data using neural networks|
+|**Key Competencies to Acquire**|- Apply vectors, matrices, tensors  <br>- Forward/backpropagation, loss, regularization  <br>- Bayesian approaches, function approximation  <br>- Analyze data with deep architectures|
+|**Role**|Provides the math and conceptual foundation for DL model design|
+
+---
+
+### 📘 Module 5 — Deep Learning with Python
+
+**Book:** _Deep Learning With Python (Manning, 2025)_
+
+|Aspect|Description|
+|---|---|
+|**Focus**|Hands-on deep learning using Python libraries|
+|**Objectives**|- Learn DL workflow: preprocessing, modeling, evaluation  <br>- Implement CNNs, RNNs, transformers, generative models  <br>- Apply DL to images, text, time series  <br>- Understand production best practices|
+|**Key Competencies to Acquire**|- Build/train deep neural networks  <br>- Implement CNNs, RNNs, LSTMs, Transformers  <br>- Image classification, segmentation, object detection  <br>- Text generation, language models, time series forecasting|
+|**Role**|Bridges theoretical DL knowledge with real-world application, enabling end-to-end DL solutions|
+
+---
+
+### 📘 Module 6 — Portfolio: Data Scientist Projects
+
+|Aspect|Description|
+|---|---|
+|**Focus**|Hands-on projects consolidating Phase 2 skills|
+|**Objectives**|- Apply calculus, ML, and DL to real datasets  <br>- Build regression, classification, and deep learning models  <br>- Evaluate models and interpret results  <br>- Develop production-ready ML pipelines|
+|**Key Competencies to Acquire**|- End-to-end ML/DL workflow  <br>- Model selection, training, evaluation  <br>- Feature engineering and hyperparameter tuning  <br>- Communicate insights and produce reproducible notebooks|
+|**Role**|Validates Phase 2 skills through practical projects; prepares learner for real-world data science and AI challenges|
