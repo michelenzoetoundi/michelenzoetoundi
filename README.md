@@ -3,7 +3,7 @@ Welcome to my GitHub space.
 ---
 
 ## 🚀 About Me
-I'm **Michel Enzo**, a Telecommunications Engineer building skills in **Data Science & AI**.  
+I'm a Telecommunications Engineer building skills in **Data Science & AI**.  
 I'm following a structured learning path to master data analysis, machine learning, and real-world problem-solving.
 
 🇫🇷 🇬🇧 I speak both French and English.
