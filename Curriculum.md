@@ -77,12 +77,12 @@
 
 **Book 1 :** _Pandas Workout: 200 Exercises to Make You a Stronger Data Analyst (Manning, 2024)_
 
-| Aspect                          | Description                                                                                                                                                                                                                                                            |
-| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Focus**                       | Intensive practice of pandas for data analysis                                                                                                                                                                                                                         |
-| **Objectives**                  | - Développer des réflexes solides en pandas  <br>- Maîtriser Series et DataFrames  <br>- Nettoyer, transformer et analyser des données réelles  <br>- Choisir des solutions lisibles, maintenables et performantes                                                     |
-| **Key Competencies to Acquire** | - Manipulation avancée des Series et DataFrames  <br>- Import/export de données (CSV, Excel, etc.)  <br>- Nettoyage de données réelles  <br>- GroupBy, joins et sorting avancés  <br>- Gestion des dates, strings et index  <br>- Optimisation des performances pandas |
-| **Role**                        | Key training book to transition from theoretical pandas usage to professional mastery focused on data analysis                                                                                                                                                         |
+| Aspect                          | Description                                                                                                                                                                                                                                        |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Focus**                       | Intensive practice of pandas for data analysis                                                                                                                                                                                                     |
+| **Objectives**                  | - Develop strong reflexes in pandas  <br>- Master Series and DataFrames  <br>- Clean, transform, and analyze real-world data  <br>- Choose readable, maintainable, and performant solutions<br><br>                       |
+| **Key Competencies to Acquire** | Advanced Series and DataFrame manipulation  <br>- Data import/export (CSV, Excel, etc.)  <br>- Real-world data cleaning  <br>- Advanced GroupBy, joins, and sorting  <br>- Date, string, and index handling  <br>- Pandas performance optimization |
+| **Role**                        | Key training book to transition from theoretical pandas usage to professional mastery focused on data analysis                                                                                                                                     |
 
 
 **Book 2  :** _Python Data Science Handbook: Essential Tools for Working with Data (O’Reilly, 2023)_
