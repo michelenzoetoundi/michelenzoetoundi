@@ -104,7 +104,7 @@
 
 ---
 
-## 📘 Module 6 — Portfolio: Data Analyst Projects 🗂️
+## 📘 Module 6 — Portfolio: Projects 🗂️
 
 |Aspect|Description|
 |---|---|
@@ -190,7 +190,7 @@
 
 ---
 
-### 📘 Module 6 — Portfolio: Data Scientist Projects 🗂️🚀
+### 📘 Module 6 — Portfolio: Projects 🗂️🚀
 
 |Aspect|Description|
 |---|---|
