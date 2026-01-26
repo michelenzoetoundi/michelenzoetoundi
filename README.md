@@ -17,7 +17,7 @@ I speak both English and French.
 
 I am at the **beginning of Phase 1** of my structured curriculum:
 
-### 🟢 Phase 1 — Data Analyst Skills
+### 🟢 Phase 1 — Data Analyst → Junior Data Scientist
 **Currently working on:**
 1. **📘 Module 1 — Mathematical Foundations: Linear Algebra** 
    *(Active)*
