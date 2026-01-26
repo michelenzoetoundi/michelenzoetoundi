@@ -1,6 +1,6 @@
-# 🟢 Phase 1 — Data Analyst Skills
+# 🟢 Phase 1 — Data Analyst → Junior Data Scientist
 
-> This phase corresponds to building the foundational skills of a data analyst.
+> This phase builds the essential, employable skills to enter the data field. You'll master the tools to collect, clean, analyze, and visualize data, and build foundational models to generate business insights and support decision-making.
 
 ---
 
@@ -8,13 +8,13 @@
 
 **📚 Book 1:** _Introduction à l'algèbre linéaire et à ses applications (ERPI, 2023)_
 
-| Aspect                             | Description                                                                                                                                                                                                                                                                     |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🎯 Focus**                       | Linear Algebra                                                                                                                                                                                                                                                                  |
-| **📖 Objectives**                  | - 📐 Understand vector spaces, matrices, and linear transformations  <br>- 🔢 Solve systems of linear equations  <br>- 🧮 Learn matrix operations and applications in data science  <br>- 🏗️ Build foundational skills for subsequent statistical and machine learning methods |
-| **💪 Key Competencies to Acquire** | - 🔄 Matrix manipulations and operations  <br>- 🧠 Understanding vector and matrix representations of data  <br>- ⚡ Solving linear systems efficiently  <br>- 💻 Applying linear algebra concepts in Octave                                                                     |
-| **🛠️ Tools**                      | ➕ **Octave**                                                                                                                                                                                                                                                                    |
-| **🎭 Role**                        | Provides the mathematical backbone 🦴 for statistics, data wrangling, and ML algorithms later                                                                                                                                                                                   |
+|Aspect|Description|
+|---|---|
+|**🎯 Focus**|Linear Algebra|
+|**📖 Objectives**|- 📐 Understand vector spaces, matrices, and linear transformations  <br>- 🔢 Solve systems of linear equations  <br>- 🧮 Learn matrix operations and applications in data science  <br>- 🏗️ Build foundational skills for subsequent statistical and machine learning methods|
+|**💪 Key Competencies to Acquire**|- 🔄 Matrix manipulations and operations  <br>- 🧠 Understanding vector and matrix representations of data  <br>- ⚡ Solving linear systems efficiently  <br>- 💻 Applying linear algebra concepts in Octave|
+|**🛠️ Tools**|➕ **Octave**|
+|**🎭 Role**|Provides the mathematical backbone 🦴 for statistics, data wrangling, and ML algorithms later|
 
 ---
 
@@ -112,39 +112,39 @@
 |**📖 Objectives**|- 🔄 Apply linear algebra, statistics, SQL, R, and Python to real datasets  <br>- 📊 Perform EDA, visualization, and reporting  <br>- 📱 Build reproducible notebooks and dashboards|
 |**💪 Key Competencies to Acquire**|- 🏗️ End-to-end data analysis workflow  <br>- 🧹 Clean and manipulate datasets  <br>- 📈 Visualize trends and insights  <br>- 💬 Communicate results effectively|
 |**🛠️ Tools**|🐍 **Python/R**, 🐼 **Pandas/Tidyverse**, 🗃️ **SQL**, 📊 **Tableau/Power BI (Intro)**, 📓 **Jupyter/R Markdown**|
-|**🎭 Role**|Validates foundational data analysis skills through hands-on projects; prepares learner for Phase 2 (Data Science & ML)|
+|**🎭 Role**|**Career Launchpad** 🚀 - Validates foundational data analysis skills through hands-on projects; creates a portfolio to land your first role as a Data Analyst or Junior Data Scientist.|
 
 ---
 
-# 🟢 Phase 2 — Data Scientist Skills
+# 🔵 Phase 2 — Data Scientist → ML Practitioner
 
-> This phase focuses on applying foundational skills to transition from a data analyst to a data scientist role.
+> This phase advances your career into core data science and machine learning. You'll deepen your mathematical understanding and learn to build, optimize, and deploy sophisticated predictive models, preparing you for senior data science roles and specialization.
 
-### 📘 Module 1 — Differential Calculus 📐
+### 📘 Module 1 — Calcul Différentiel 📐
 
 **📚 Book:** _Calcul Différentiel (Chenelière, 2023)_
 
-| Aspect                             | Description                                                                                                                                                                                                                                             |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🎯 Focus**                       | Foundations of differential calculus for real-valued functions                                                                                                                                                                                          |
-| **📖 Objectives**                  | - 📐 Understand algebraic notions and function behavior  <br>- 🔄 Learn limits and continuity  <br>- 📈 Master derivatives and their applications  <br>- 🔍 Analyze functions, rates of change, and optimization problems                               |
-| **💪 Key Competencies to Acquire** | - 🧮 Compute derivatives of algebraic and implicit functions  <br>- 🎯 Apply derivatives to solve optimization problems  <br>- 📊 Analyze function behavior and use L'Hospital's rule  <br>- 📈 Understand rate of change and applied calculus concepts |
-| **🛠️ Tools**                      | ➕ **Octave**, 🧮 **Symbolic Computation (e.g., SymPy)**                                                                                                                                                                                                 |
-| **🎭 Role**                        | Provides mathematical tools needed to model change and optimize functions, essential for ML algorithms                                                                                                                                                  |
+|Aspect|Description|
+|---|---|
+|**🎯 Focus**|Foundations of differential calculus for real-valued functions|
+|**📖 Objectives**|- 📐 Understand algebraic notions and function behavior  <br>- 🔄 Learn limits and continuity  <br>- 📈 Master derivatives and their applications  <br>- 🔍 Analyze functions, rates of change, and optimization problems|
+|**💪 Key Competencies to Acquire**|- 🧮 Compute derivatives of algebraic and implicit functions  <br>- 🎯 Apply derivatives to solve optimization problems  <br>- 📊 Analyze function behavior and use L'Hospital's rule  <br>- 📈 Understand rate of change and applied calculus concepts|
+|**🛠️ Tools**|📐 **Mathematical Notation**, 🧮 **Symbolic Computation (e.g., SymPy)**|
+|**🎭 Role**|Provides the mathematical tools needed to understand and optimize ML models (like gradient descent).|
 
 ---
 
-### 📘 Module 2 — Integral Calculus ∫
+### 📘 Module 2 — Calcul Intégral ∫
 
 **📚 Book:** _Calcul Intégral (Chenelière, 2016)_
 
-| Aspect                             | Description                                                                                                                                                                                                                                |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **🎯 Focus**                       | Foundations of integral calculus for analysis and modeling                                                                                                                                                                                 |
-| **📖 Objectives**                  | - 🧮 Learn integration techniques  <br>- 📊 Understand definite and indefinite integrals  <br>- 🔗 Connect differentiation and integration <br- 🎯 Apply integrals to real-world problems                                                  |
-| **💪 Key Competencies to Acquire** | - 🧮 Perform integration and solve definite integrals <br- 📐 Apply fundamental theorems of calculus  <br>- 📈 Use integrals in modeling cumulative quantities and areas  <br>- 🌍 Solve applied problems in physics, data science, and ML |
-| **🛠️ Tools**                      | ➕ **Octave**, 🧮 **Symbolic Computation**                                                                                                                                                                                                  |
-| **🎭 Role**                        | Complements differential calculus, enabling understanding of accumulation, area under curves, and advanced modeling concepts in ML                                                                                                         |
+|Aspect|Description|
+|---|---|
+|**🎯 Focus**|Foundations of integral calculus for analysis and modeling|
+|**📖 Objectives**|- 🧮 Learn integration techniques  <br>- 📊 Understand definite and indefinite integrals  <br>- 🔗 Connect differentiation and integration  <br>- 🎯 Apply integrals to real-world problems|
+|**💪 Key Competencies to Acquire**|- 🧮 Perform integration and solve definite integrals  <br>- 📐 Apply fundamental theorems of calculus  <br>- 📈 Use integrals in modeling cumulative quantities and areas  <br>- 🌍 Solve applied problems in physics, data science, and ML|
+|**🛠️ Tools**|📐 **Mathematical Notation**, 🧮 **Symbolic Computation**|
+|**🎭 Role**|Completes the calculus foundation, crucial for understanding continuous probability distributions and advanced ML concepts.|
 
 ---
 
@@ -158,7 +158,7 @@
 |**📖 Objectives**|- 📚 Learn ML fundamentals  <br>- 🏗️ Implement regression, classification, clustering, sequence models  <br>- 🧠 Explore deep learning architectures  <br>- 🌍 Apply ML to real-world datasets|
 |**💪 Key Competencies to Acquire**|- 📊 Build regression and classification models  <br>- 🧠 Implement neural networks  <br>- 🎨 Understand CNNs, RNNs, autoencoders, sequence models  <br>- 🔄 Translate problems into ML workflows|
 |**🛠️ Tools**|🤖 **TensorFlow / Keras**, 🐍 **Python**|
-|**🎭 Role**|Hands-on ML experience bridging theory with practice|
+|**🎭 Role**|Core ML implementation skills. Moves from theory in Phase 1 to building and training real models.|
 
 ---
 
@@ -172,7 +172,7 @@
 |**📖 Objectives**|- 📐 Understand linear algebra, probability, calculus in ML  <br>- 🏗️ Learn neural network structures and optimization  <br>- 🔮 Explore Bayesian and generative modeling  <br>- 📊 Model data using neural networks|
 |**💪 Key Competencies to Acquire**|- 🔢 Apply vectors, matrices, tensors  <br>- 🔄 Forward/backpropagation, loss, regularization  <br>- 🎲 Bayesian approaches, function approximation  <br>- 📈 Analyze data with deep architectures|
 |**🛠️ Tools**|📐 **Mathematical Theory**, 🧠 **Neural Network Frameworks (Conceptual)**|
-|**🎭 Role**|Provides the math and conceptual foundation for DL model design|
+|**🎭 Role**|Bridges the gap between raw math and practical DL. Teaches you _why_ architectures work, not just _how_ to use them.|
 
 ---
 
@@ -186,7 +186,7 @@
 |**📖 Objectives**|- 🛠️ Learn DL workflow: preprocessing, modeling, evaluation  <br>- 🏗️ Implement CNNs, RNNs, transformers, generative models  <br>- 🎯 Apply DL to images, text, time series  <br>- 🚀 Understand production best practices|
 |**💪 Key Competencies to Acquire**|- 🧠 Build/train deep neural networks  <br>- 🖼️ Implement CNNs, RNNs, LSTMs, Transformers  <br>- 👁️ Image classification, segmentation, object detection  <br>- 📝 Text generation, language models, time series forecasting|
 |**🛠️ Tools**|🐍 **Python**, 🤖 **TensorFlow/PyTorch**, 🖼️ **OpenCV (for images)**, 📚 **Hugging Face (for NLP)**|
-|**🎭 Role**|Bridges theoretical DL knowledge with real-world application, enabling end-to-end DL solutions|
+|**🎭 Role**|**Advanced Specialization** - Applies all previous learning to state-of-the-art deep learning tasks, a key differentiator for senior roles.|
 
 ---
 
@@ -198,4 +198,6 @@
 |**📖 Objectives**|- 🔄 Apply calculus, ML, and DL to real datasets  <br>- 🏗️ Build regression, classification, and deep learning models  <br>- 📊 Evaluate models and interpret results  <br>- 🚀 Develop production-ready ML pipelines|
 |**💪 Key Competencies to Acquire**|- 🔄 End-to-end ML/DL workflow  <br>- 🎯 Model selection, training, evaluation  <br>- 🛠️ Feature engineering and hyperparameter tuning  <br>- 💬 Communicate insights and produce reproducible notebooks|
 |**🛠️ Tools**|🐍 **Python**, 🤖 **Scikit-learn / TensorFlow / PyTorch**, ☁️ **MLOps Basics (e.g., MLflow, DVC)**, 📓 **Jupyter**|
-|**🎭 Role**|Validates Phase 2 skills through practical projects; prepares learner for real-world data science and AI challenges|
+|**🎭 Role**|**Career Catalyst** 🚀 - Creates an advanced portfolio demonstrating ML/DL mastery. This is the key to transitioning into roles like Data Scientist, ML Specialist, or AI Engineer, and opens the door to further specialization in MLOps or Research.|
+
+---
