@@ -108,7 +108,7 @@
 
 # 🟢 Phase 2 — Data Scientist Skills
 
->This phase focuses on applying foundational skills to real-world data, building predictive models, and developing ML pipelines.
+>This phase focuses on applying foundational skills to transition from a data analyst to a data scientist role.
 
 ### 📘 Module 1 — Calcul Différentiel
 
