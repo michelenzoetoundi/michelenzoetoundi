@@ -120,7 +120,7 @@
 
 > This phase focuses on applying foundational skills to transition from a data analyst to a data scientist role.
 
-### 📘 Module 1 — Calcul Différentiel 📐
+### 📘 Module 1 — Differential Calculus 📐
 
 **📚 Book:** _Calcul Différentiel (Chenelière, 2023)_
 
@@ -134,7 +134,7 @@
 
 ---
 
-### 📘 Module 2 — Calcul Intégral ∫
+### 📘 Module 2 — Integral Calculus ∫
 
 **📚 Book:** _Calcul Intégral (Chenelière, 2016)_
 
