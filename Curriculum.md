@@ -94,3 +94,5 @@
 | **Key Competencies to Acquire** | - Interactive computing with Jupyter/IPython  <br>- Efficient array computing with NumPy  <br>- Advanced data manipulation with Pandas  <br>- Data visualization with Matplotlib and Seaborn  <br>- Implementing supervised and unsupervised ML using Scikit-Learn  <br>- Feature engineering and model validation |
 | **Role**                        | Serves as a bridge between foundational Python/pandas skills and applied machine learning; prepares learners to implement end-to-end data science pipelines on real-world datasets                                                                                                                                 |
 
+# 🟢 Phase 2 — Data Scientist Skills
+
