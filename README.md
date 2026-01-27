@@ -10,19 +10,7 @@ I'm following a structured learning path to master data analysis, machine learni
 
 ---
 
-## 📚 Current Learning Focus
-I'm at the **beginning of Phase 1** in my structured curriculum:
-
-### 🟢 **Active Module:** Linear Algebra
-- Building mathematical foundations for ML
-- Using **Octave** for numerical computation
-- Focusing on matrix operations and linear systems
-
-### 🔜 **Next Modules:**
-1. Statistics & Excel
-2. R Programming  
-3. SQL
-4. Python & Pandas
+## 📚 Learning Focus
 
 [📖 View Full Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
 
