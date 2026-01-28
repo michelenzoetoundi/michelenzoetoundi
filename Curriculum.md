@@ -6,7 +6,7 @@
 
 ## 📘 Module 1 — Mathematical Foundations: Linear Algebra 📊
 
-**📚 Book 1:** _Introduction à l'algèbre linéaire et à ses applications (ERPI, 2023)_
+**📚 Book 1:Linear Algebra and Its Applications, Global Edition (2021, Pearson)** 
 
 |Aspect|Description|
 |---|---|
