@@ -120,7 +120,7 @@
 
 > This phase advances my career into core data science and machine learning. I'll deepen my mathematical understanding and learn to build, optimize, and deploy sophisticated predictive models, preparing me for senior data science roles and specialization.
 
-### 📘 Module 1 — Calcul Différentiel 📐
+### 📘 Module 1 — Differential Calculus 📐
 
 **📚 Book:** _Calcul Différentiel (Chenelière, 2023)_
 
@@ -134,7 +134,7 @@
 
 ---
 
-### 📘 Module 2 — Calcul Intégral ∫
+### 📘 Module 2 — Integral Calculus ∫
 
 **📚 Book:** _Calcul Intégral (Chenelière, 2016)_
 
