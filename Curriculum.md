@@ -1,260 +1,269 @@
-# 📚 COMPLETE DATA SCIENCE & AI TRAINING
-*Strictly guided by selected books - Monthly sprint approach*
+# 📚 **COMPLETE DATA SCIENCE & AI TRAINING**
+
+_Strictly guided by selected books - Monthly sprint approach_
+
+---
+## 🎯 **PHASE 1: GLOBAL OVERVIEW & LIFECYCLE**
+
+### **📘 SPRINT 1: The Data Science Profession**
+
+|Aspect|Details|
+|---|---|
+|**⏱️ Duration**|4-5 weeks|
+|**📚 Core Book**|_Principles of Data Science_ (Ault, 2025 - OpenStax)|
+|**📖 Chapters**|**Complete Book** (Units 1, 2, 3, 4)|
+|**🎯 Objective**|Obtain a complete mental map of the field, from collection to production, including ethics and communication.|
+|**🔗 Prerequisites**|None. This is the starting point.|
+|**🏗️ Project**|Write a synthesis document detailing the lifecycle of a data project and identifying key roles and skills.|
+|**✅ Validation**|Complete synthesis document.|
 
 ---
 
-## 📌 **PHASE 1 : DATA ANALYST** 👨‍💻
-*(4 sprints - 16 weeks ≈ 4 months)*
+## 🎯 **PHASE 2: QUANTITATIVE FOUNDATIONS & BUSINESS TOOL**
 
-### 🎯 **SPRINT 1 : Fundamental Statistics with Excel** 📊
+### **📊 SPRINT 2: Applied Statistics with Excel**
 
-| | |
-|---|---|
-| **⏱️ Duration** | 4 weeks |
-| **📚 Books** | 1. *Introductory Statistics* (Gould)<br>2. *Statistics for Managers Using Microsoft Excel* (Levine) |
-| **🛠️ Tool** | Microsoft Excel (Data Analysis Toolpak) |
-| **📖 Chapters** | Complete books, in order |
-| **🎯 Objective** | Master descriptive and inferential statistical analysis in business context |
-| **🏗️ Project** | Complete statistical analysis of a real business dataset |
-| **✅ Validation** | All exercises from both books completed + professional Excel report |
-
----
-
-### 🎯 **SPRINT 2 : SQL for Data Science** 🗃️
-
-| | |
-|---|---|
-| **⏱️ Duration** | 3 weeks |
-| **📚 Book** | *Sams Teach Yourself SQL in 10 Minutes* (Forta) |
-| **🛠️ Tool** | SQL (SQLite, PostgreSQL) |
-| **📖 Chapters** | 1 to 22 (complete book) |
-| **🎯 Objective** | Master data extraction, transformation and aggregation |
-| **🏗️ Project** | Complete database with complex analytical queries |
-| **✅ Validation** | All lessons practiced + functional database |
+| Aspect               | Details                                                                                                                         |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **⏱️ Duration**      | 4 weeks                                                                                                                         |
+| **📚 Books**         | 1. _Introductory Statistics_ (Gould)  <br>2. _Statistics for Managers Using Microsoft Excel_ (Levine)                           |
+| **🛠️ Tool**         | Microsoft Excel (Data Analysis Toolpak)                                                                                         |
+| **🎯 Objective**     | Master descriptive and inferential statistical concepts and know how to implement them in the universal business analysis tool. |
+| **🔗 Prerequisites** | **Sprint 1** (to understand the application context for stats).                                                                 |
+| **🏗️ Project**      | Complete statistical analysis of a business dataset with a professional Excel report.                                           |
+| **✅ Validation**     | Excel report with automated calculations, relevant graphs, test interpretation, and business conclusions.                       |
 
 ---
 
-### 🎯 **SPRINT 3 : Data Science with R** 📈
+## 🎯 **PHASE 3: SYSTEMIC PREREQUISITES & ALGORITHMICS**
 
-| | |
-|---|---|
-| **⏱️ Duration** | 5 weeks |
-| **📚 Books** | 1. *Practical Data Science with R* (Mount)<br>2. *The R Book* (Jones) as reference |
-| **🛠️ Tool** | R (tidyverse, ggplot2, R Markdown) |
-| **📖 Chapters** | Complete *Practical Data Science with R* + relevant sections of *The R Book* |
-| **🎯 Objective** | Master advanced statistical analysis and visualization in R |
-| **🏗️ Project** | Complete replication of a published statistical study |
-| **✅ Validation** | Clean reproducible R code + R Markdown report |
+### **🖥️ SPRINT 3: Computer Science & Algorithmic Fundamentals**
 
----
-
-### 🎯 **SPRINT 4 : Data Manipulation with Pandas** 🐼
-
-| | |
-|---|---|
-| **⏱️ Duration** | 4 weeks |
-| **📚 Book** | *Pandas Workout* (Lerner) |
-| **🛠️ Tool** | Python (pandas) |
-| **📖 Content** | Selection of first 100 most relevant exercises |
-| **🎯 Objective** | Develop professional reflexes in data manipulation |
-| **🏗️ Project** | Complete ETL pipeline for cleaning and transformation |
-| **✅ Validation** | Pandas exercises completed + functional pipeline |
+| Aspect               | Details                                                                                                                                                                  |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **⏱️ Duration**      | 5-6 weeks                                                                                                                                                                |
+| **📚 Books**         | 1. _Foundations of Computer Science_ (Forouzan): **Ch. 1, 2, 3, 4, 5, 8, 9**.  <br>2. _Introduction to Computer Science_ (Franchitti): **Part 1 (Ch. 1, 2, 3) & Ch. 8**. |
+| **🎯 Objective**     | Understand the basic workings of a computer (data, architecture), algorithmic thinking, and data management system concepts.                                             |
+| **🔗 Prerequisites** | **Sprint 1 & 2** (context and need for quantitative rigor).                                                                                                              |
+| **🏗️ Project**      | 1. Diagram explaining the journey of a piece of data.  <br>2. Complexity analysis of simple algorithms.                                                                  |
+| **✅ Validation**     | Clear written and diagrammed explanations.                                                                                                                               |
 
 ---
 
-## 📌 **PHASE 2 : DATA SCIENTIST** 🔬
-*(5 sprints - 22 weeks ≈ 5.5 months)*
+## 🎯 **PHASE 4: MASTERY OF LANGUAGES & SPECIFIC TOOLS**
 
-### 🎯 **SPRINT 5 : Fundamental Linear Algebra** 🔢
+### **🐍 SPRINT 4: Fundamental Programming & Data Science Transition**
 
-| | |
+|Aspect|Details|
 |---|---|
-| **⏱️ Duration** | 4 weeks |
-| **📚 Book** | *Linear Algebra and Its Applications* (Lay) |
-| **🛠️ Tool** | Octave |
-| **📖 Chapters** | 1, 2, 3 (Linear Equations, Matrix Algebra, Determinants) |
-| **🎯 Objective** | Understand linear algebra foundations without Python distractions |
-| **🏗️ Project** | Octave matrix operations library + linear system solver |
-| **✅ Validation** | Chapters 1-3 exercises solved + functional Octave code |
+|**⏱️ Duration**|6 weeks|
+|**📚 Book**|_Introduction to Python Programming_ (Das & Lawson, 2024 - OpenStax)|
+|**📖 Chapters**|**Complete Book (Ch. 1 to 15)**. Ch.15 is the key transition.|
+|**🛠️ Tool**|Python (Local environment or notebook)|
+|**🎯 Objective**|1. Master the fundamentals of Python programming.  <br>2. Apply these basics to the Data Science context via NumPy/Pandas (Ch.15).|
+|**🔗 Prerequisites**|**Sprint 3** (understanding of what a program and data are).|
+|**🏗️ Project**|1. Pure programming project (CLI game or utility).  <br>2. Mini-analysis of a dataset with Pandas.|
+|**✅ Validation**|Functional, clean, and commented code for both projects.|
+
+### **🗃️ SPRINT 5: SQL for Data Engineering**
+
+|Aspect|Details|
+|---|---|
+|**⏱️ Duration**|3 weeks|
+|**📚 Book**|_Sams Teach Yourself SQL in 10 Minutes_ (Forta)|
+|**🛠️ Tool**|SQLite / PostgreSQL|
+|**📖 Chapters**|1 to 22 (complete book)|
+|**🎯 Objective**|Master data extraction, transformation, and aggregation from a relational DBMS.|
+|**🔗 Prerequisites**|**Sprint 3** (database concepts) and **Sprint 4** (programming logic).|
+|**🏗️ Project**|Modeled relational database and complex SQL queries to answer business questions.|
+|**✅ Validation**|Functional and documented SQL scripts.|
+
+### **📈 SPRINT 6: Statistical Analysis with R**
+
+|Aspect|Details|
+|---|---|
+|**⏱️ Duration**|5 weeks|
+|**📚 Books**|1. _Practical Data Science with R_ (Mount)  <br>2. _The R Book_ (Jones) as reference|
+|**🛠️ Tool**|R (tidyverse, ggplot2, R Markdown)|
+|**🎯 Objective**|Use R, a specialized language, for advanced exploratory and confirmatory statistical analysis.|
+|**🔗 Prerequisites**|**Sprint 2** (Statistics), **Sprint 4** (programming logic).|
+|**🏗️ Project**|Replication and extension of a published statistical analysis.|
+|**✅ Validation**|Reproducible R code and professional R Markdown report.|
+
+### **🔧 SPRINT 7: Advanced Manipulation with Pandas**
+
+|Aspect|Details|
+|---|---|
+|**⏱️ Duration**|4 weeks|
+|**📚 Book**|_Pandas Workout_ (Lerner)|
+|**🛠️ Tool**|Python (pandas, numpy)|
+|**📖 Content**|Selection of the first 100 most relevant exercises.|
+|**🎯 Objective**|Develop professional reflexes for efficiently cleaning, transforming, and preparing data in Python.|
+|**🔗 Prerequisites**|**Sprint 4** (Basic Python & Pandas) and **Sprint 5** (data logic).|
+|**🏗️ Project**|Robust ETL cleaning pipeline for a messy real-world dataset.|
+|**✅ Validation**|Functional, efficient, and well-documented pipeline.|
 
 ---
 
-### 🎯 **SPRINT 6 : Vector Spaces & Eigenvalues** 📐
+## 🎯 **PHASE 5: ADVANCED MATHEMATICAL FOUNDATIONS & MACHINE LEARNING**
 
-| | |
+### **📐 SPRINT 8: Fundamental Linear Algebra**
+
+|Aspect|Details|
 |---|---|
-| **⏱️ Duration** | 4 weeks |
-| **📚 Book** | *Linear Algebra and Its Applications* (Lay) |
-| **🛠️ Tool** | Octave → Python (transition) |
-| **📖 Chapters** | 4, 5 (Vector Spaces, Eigenvalues and Eigenvectors) |
-| **🎯 Objective** | Master advanced concepts for dimensionality analysis |
-| **🏗️ Project** | PCA (Principal Component Analysis) implementation from scratch |
-| **✅ Validation** | Chapters 4-5 exercises + functional PCA |
+|**⏱️ Duration**|4 weeks|
+|**📚 Book**|_Linear Algebra and Its Applications_ (Lay)|
+|**🛠️ Tool**|Octave (to focus on concepts)|
+|**📖 Chapters**|1, 2, 3 (Linear Equations, Matrix Algebra, Determinants)|
+|**🎯 Objective**|Understand the foundations of linear algebra without the distraction of Python.|
+|**🔗 Prerequisites**|**All previous sprints** (context and acquired rigor).|
+|**🏗️ Project**|Octave library of matrix operations + linear system solver.|
+|**✅ Validation**|Chapters 1-3 exercises solved + functional Octave code.|
+
+### **📏 SPRINT 9: Vector Spaces & Eigenvalues**
+
+| Aspect               | Details                                                            |
+| -------------------- | ------------------------------------------------------------------ |
+| **⏱️ Duration**      | 4 weeks                                                            |
+| **📚 Book**          | _Linear Algebra and Its Applications_ (Lay)                        |
+| **🛠️ Tool**         | Octave → Python (transition)                                       |
+| **📖 Chapters**      | 4, 5 (Vector Spaces, Eigenvalues and Eigenvectors)                 |
+| **🎯 Objective**     | Master advanced concepts for dimensional analysis (PCA).           |
+| **🔗 Prerequisites** | **Sprint 8** (Fundamental Linear Algebra).                         |
+| **🏗️ Project**      | From scratch implementation of Principal Component Analysis (PCA). |
+| **✅ Validation**     | Chapters 4-5 exercises + functional PCA on a dataset.              |
+
+### **🐍📚 SPRINT 10: Python Data Science Ecosystem**
+
+|Aspect|Details|
+|---|---|
+|**⏱️ Duration**|6 weeks|
+|**📚 Book**|_Python Data Science Handbook_ (VanderPlas)|
+|**🛠️ Tool**|Complete Python ecosystem (Jupyter, NumPy, pandas, Matplotlib)|
+|**📖 Parts**|I to IV (Jupyter, NumPy, Pandas, Matplotlib)|
+|**🎯 Objective**|Master the entire scientific Python ecosystem.|
+|**🔗 Prerequisites**|**Sprint 4 & 7** (Basic Python and Pandas).|
+|**🏗️ Project**|Complete and aesthetic Exploratory Data Analysis (EDA) on a complex dataset.|
+|**✅ Validation**|Jupyter/NumPy mastery + advanced pandas + professional visualizations.|
+
+### **➗ SPRINT 11: Applied Algebra - Least Squares**
+
+| Aspect               | Details                                                    |
+| -------------------- | ---------------------------------------------------------- |
+| **⏱️ Duration**      | 3 weeks                                                    |
+| **📚 Book**          | _Linear Algebra and Its Applications_ (Lay)                |
+| **🛠️ Tool**         | Python (NumPy, SciPy)                                      |
+| **📖 Chapter**       | 6 (Orthogonality and Least Squares)                        |
+| **🎯 Objective**     | Apply linear algebra to regression problems.               |
+| **🔗 Prerequisites** | **Sprint 8, 9, 10** (Algebra + Python).                    |
+| **🏗️ Project**      | From scratch implementation of multiple linear regression. |
+| **✅ Validation**     | Understanding of least squares + implemented regression.   |
+
+### **🤖 SPRINT 12: Fundamental Machine Learning**
+
+|Aspect|Details|
+|---|---|
+|**⏱️ Duration**|5 weeks|
+|**📚 Book**|_Python Data Science Handbook_ (VanderPlas)|
+|**🛠️ Tool**|Scikit-learn|
+|**📖 Part**|V (Machine Learning - Chapters 37 to 50)|
+|**🎯 Objective**|Master the complete machine learning workflow.|
+|**🔗 Prerequisites**|**Sprint 10 & 11** (Python ecosystem + applied algebra).|
+|**🏗️ Project**|End-to-end ML pipeline: from preprocessing to evaluation.|
+|**✅ Validation**|Understanding of ML algorithms + functional pipeline.|
 
 ---
 
-### 🎯 **SPRINT 7 : Python Data Science Ecosystem** 🔄
+## 🎯 **PHASE 6: ADVANCED ENGINEERING & DEEP LEARNING**
 
-| | |
+### **🎯 SPRINT 13: Advanced Algebra - SVD & Applications**
+
+|Aspect|Details|
 |---|---|
-| **⏱️ Duration** | 6 weeks |
-| **📚 Book** | *Python Data Science Handbook* (VanderPlas) |
-| **🛠️ Tool** | Complete Python ecosystem (Jupyter, NumPy, pandas, Matplotlib) |
-| **📖 Parts** | I to IV (Jupyter, NumPy, Pandas, Matplotlib) |
-| **🎯 Objective** | Master complete Python ecosystem for data science |
-| **🏗️ Project** | Complete exploratory analysis (EDA) with advanced visualization |
-| **✅ Validation** | Jupyter/IPython mastery + NumPy + advanced pandas + visualizations |
+|**⏱️ Duration**|3 weeks|
+|**📚 Book**|_Linear Algebra and Its Applications_ (Lay)|
+|**🛠️ Tool**|Python (NumPy, SciPy)|
+|**📖 Chapter**|7 (Symmetric Matrices and Quadratic Forms)|
+|**🎯 Objective**|Master SVD for advanced applications (recommendation, compression).|
+|**🔗 Prerequisites**|**Sprint 8, 9, 11** (Strong Linear Algebra).|
+|**🏗️ Project**|SVD-based recommendation system + image compression.|
+|**✅ Validation**|SVD implemented + functional applications.|
 
----
+### **∫ SPRINT 14: Differential & Integral Calculus**
 
-### 🎯 **SPRINT 8 : Applied Linear Algebra - Least Squares** 📏
-
-| | |
+|Aspect|Details|
 |---|---|
-| **⏱️ Duration** | 3 weeks |
-| **📚 Book** | *Linear Algebra and Its Applications* (Lay) |
-| **🛠️ Tool** | Python (NumPy, SciPy) |
-| **📖 Chapter** | 6 (Orthogonality and Least Squares) |
-| **🎯 Objective** | Apply linear algebra to regression problems |
-| **🏗️ Project** | Multiple linear regression implementation from scratch |
-| **✅ Validation** | Understanding least squares + implemented regression |
+|**⏱️ Duration**|6 weeks|
+|**📚 Books**|1. _Calcul Différentiel_ (Fortin)  <br>2. _Calcul Intégral_ (Charron)|
+|**🛠️ Tool**|Paper/pen + Python visualization|
+|**📖 Chapters**|Complete books (cover essentials)|
+|**🎯 Objective**|Mathematical foundations for optimization in ML (gradient descent).|
+|**🔗 Prerequisites**|**All previous sprints** (preparation for abstract reasoning).|
+|**🏗️ Project**|Detailed implementation and visualization of the gradient descent algorithm.|
+|**✅ Validation**|Calculus exercises solved + functional gradient descent.|
 
----
+### **⚡ SPRINT 15: Machine Learning with TensorFlow**
 
-### 🎯 **SPRINT 9 : Fundamental Machine Learning** 🤖
-
-| | |
+|Aspect|Details|
 |---|---|
-| **⏱️ Duration** | 5 weeks |
-| **📚 Book** | *Python Data Science Handbook* (VanderPlas) |
-| **🛠️ Tool** | Scikit-learn |
-| **📖 Part** | V (Machine Learning - Chapters 37 to 50) |
-| **🎯 Objective** | Master complete machine learning workflow |
-| **🏗️ Project** | End-to-end ML pipeline: preprocessing to evaluation |
-| **✅ Validation** | ML algorithms understanding + functional pipeline |
+|**⏱️ Duration**|6 weeks|
+|**📚 Book**|_Machine Learning with TensorFlow_ (Mattmann)|
+|**🛠️ Tool**|TensorFlow / Keras|
+|**📖 Chapters**|1 to 10 (complete book)|
+|**🎯 Objective**|Develop and train ML models using the TensorFlow ecosystem.|
+|**🔗 Prerequisites**|**Sprint 12** (Fundamental ML) and **Sprint 14** (calculus for understanding optimization).|
+|**🏗️ Project**|Reproducible ML pipeline with TensorFlow for a structured problem.|
+|**✅ Validation**|Functional TensorFlow models + reproducible pipeline.|
 
----
+### **🧠 SPRINT 16: Mathematics of Deep Learning Architectures**
 
-## 📌 **PHASE 3 : ML ENGINEER** ⚙️
-*(6 sprints - 26 weeks ≈ 6.5 months)*
+| Aspect               | Details                                                                         |
+| -------------------- | ------------------------------------------------------------------------------- |
+| **⏱️ Duration**      | 4 weeks                                                                         |
+| **📚 Book**          | _Math and Architectures of Deep Learning_ (Chaudhury)                           |
+| **🛠️ Tool**         | Python (NumPy) from scratch                                                     |
+| **📖 Chapters**      | 1 to 6 (mathematical foundations)                                               |
+| **🎯 Objective**     | Understand the mathematical foundations of neural networks.                     |
+| **🔗 Prerequisites** | **Sprint 13 & 14** (Advanced Algebra + Calculus).                               |
+| **🏗️ Project**      | Feedforward neural network implemented from scratch with backpropagation.       |
+| **✅ Validation**     | Neural network functional without framework + understanding of backpropagation. |
 
-### 🎯 **SPRINT 10 : Advanced Linear Algebra - SVD** 🔍
+### **🚀 SPRINT 17: Advanced Deep Learning**
 
-| | |
+|Aspect|Details|
 |---|---|
-| **⏱️ Duration** | 3 weeks |
-| **📚 Book** | *Linear Algebra and Its Applications* (Lay) |
-| **🛠️ Tool** | Python (NumPy, SciPy) |
-| **📖 Chapter** | 7 (Symmetric Matrices and Quadratic Forms) |
-| **🎯 Objective** | Master SVD for advanced applications |
-| **🏗️ Project** | SVD-based recommendation system + image compression |
-| **✅ Validation** | SVD implemented + functional applications |
+|**⏱️ Duration**|6 weeks|
+|**📚 Book**|_Deep Learning With Python_ (Chollet - 2nd ed.)|
+|**🛠️ Tool**|TensorFlow / Keras|
+|**📖 Chapters**|1 to 9 (complete book)|
+|**🎯 Objective**|Master modern deep learning architectures (CNN, RNN, transformers).|
+|**🔗 Prerequisites**|**Sprint 15 & 16** (TensorFlow + DL math foundations).|
+|**🏗️ Project**|Complex Deep Learning project (Computer Vision or NLP).|
+|**✅ Validation**|High-performing DL model + modern architecture.|
 
----
+### **🎓 SPRINT 18: Consolidation & Specialization**
 
-### 🎯 **SPRINT 11 : Differential & Integral Calculus** ∫
-
-| | |
+|Aspect|Details|
 |---|---|
-| **⏱️ Duration** | 6 weeks |
-| **📚 Books** | 1. *Calcul Différentiel* (Fortin)<br>2. *Calcul Intégral* (Charron) |
-| **🛠️ Tool** | Paper/pen + Python visualization |
-| **📖 Chapters** | Complete books (cover essentials) |
-| **🎯 Objective** | Mathematical foundations for ML optimization |
-| **🏗️ Project** | Detailed gradient descent algorithm implementation |
-| **✅ Validation** | Calculus exercises solved + functional gradient descent |
-
----
-
-### 🎯 **SPRINT 12 : Machine Learning with TensorFlow** ⚡
-
-| | |
-|---|---|
-| **⏱️ Duration** | 6 weeks |
-| **📚 Book** | *Machine Learning with TensorFlow* (Mattmann) |
-| **🛠️ Tool** | TensorFlow / Keras |
-| **📖 Chapters** | 1 to 10 (complete book) |
-| **🎯 Objective** | Master ML development with TensorFlow |
-| **🏗️ Project** | Complete ML pipeline with TensorFlow |
-| **✅ Validation** | Functional TensorFlow models + reproducible pipeline |
-
----
-
-### 🎯 **SPRINT 13 : Mathematics of Deep Learning Architectures** 🧠
-
-| | |
-|---|---|
-| **⏱️ Duration** | 4 weeks |
-| **📚 Book** | *Math and Architectures of Deep Learning* (Chaudhury) |
-| **🛠️ Tool** | Python (NumPy) from scratch |
-| **📖 Chapters** | 1 to 6 (mathematical foundations) |
-| **🎯 Objective** | Understand mathematical foundations of neural networks |
-| **🏗️ Project** | Feedforward neural network implemented from scratch |
-| **✅ Validation** | Neural network functional without framework + backpropagation |
-
----
-
-### 🎯 **SPRINT 14 : Advanced Deep Learning** 🚀
-
-| | |
-|---|---|
-| **⏱️ Duration** | 6 weeks |
-| **📚 Book** | *Deep Learning With Python* (Chollet - 2025) |
-| **🛠️ Tool** | TensorFlow / Keras |
-| **📖 Chapters** | 1 to 9 (complete book) |
-| **🎯 Objective** | Master modern deep learning architectures |
-| **🏗️ Project** | Complex deep learning project (Computer Vision or NLP) |
-| **✅ Validation** | High-performing DL model + modern architecture |
-
----
-
-### 🎯 **SPRINT 15 : Consolidation & Specialization** 🎯
-
-| | |
-|---|---|
-| **⏱️ Duration** | 3 weeks |
-| **📚 Books** | Choice based on desired specialization<br>- *Introduction à l'algèbre linéaire* (Amyotte)<br>- Chapters 8-9 of Lay<br>- Other resources |
-| **🛠️ Tool** | Python / based on specialization |
-| **🎯 Objective** | Consolidate learning and develop specialization |
-| **🏗️ Project** | Ambitious synthesis project integrating all skills |
-| **✅ Validation** | Complete project + professional portfolio |
+|**⏱️ Duration**|4 weeks|
+|**📚 Books**|Choice based on desired specialization (e.g., _Artificial Intelligence: A Modern Approach_ - Russell & Norvig, _Introduction to Operations Research_ - Hillier & Lieberman).|
+|**🛠️ Tool**|Python / according to specialization|
+|**🎯 Objective**|Consolidate learning and develop a specialization.|
+|**🔗 Prerequisites**|**All previous sprints**.|
+|**🏗️ Project**|Ambitious synthesis project integrating all skills.|
+|**✅ Validation**|Complete project + professional portfolio.|
 
 ---
 
 ## 📊 **GLOBAL TIMELINE**
 
-| Period | Sprints | Focus | Duration |
-|--------|---------|-------|----------|
-| **2026 Mar-Jun** | 1-4 | Phase 1 - Data Analyst | 4 months |
-| **2026 Jul-Nov** | 5-9 | Phase 2 - Data Scientist | 5.5 months |
-| **2026 Dec-2027 Feb** | 10-12 | Phase 3 start - ML Engineer | 3.5 months |
-| **2027 Mar-Apr** | 13-14 | Phase 3 cont. - Deep Learning | 2.5 months |
-| **2027 May** | 15 | Consolidation & Specialization | 1 month |
+|Period|Sprints|Focus|Duration|
+|---|---|---|---|
+|**Start**|1-3|Phases 1-3: Global View, Stats, System Fundamentals|3.5-4 months|
+|**Continuation**|4-7|Phase 4: Mastery of Languages & Tools|4.5 months|
+|**Mid-Point**|8-12|Phase 5: Advanced Maths & ML|5.5 months|
+|**End**|13-18|Phase 6: Advanced Engineering & Deep Learning|6-7 months|
 
-**Total: 16 months** (with flexibility)
-
----
-
-## ✅ **GLOBAL SUCCESS CRITERIA**
-
-1. **Book Completion**: All exercises from main books completed
-2. **GitHub Portfolio**: 15+ organized and documented projects
-3. **Deep Understanding**: Ability to explain mathematical concepts
-4. **Technical Skills**: Verifiable tool mastery
-5. **Employability**: Portfolio ready for job market
+**Total: ~19-21 months** (with flexibility based on pace)
 
 ---
-
-## 🛠️ **TOOLS & TECHNOLOGIES MASTERED**
-
-### **At the end of the journey:**
-- **Languages**: Python (advanced), R (intermediate-advanced), SQL (advanced), Octave (basic)
-- **Data Libraries**: pandas, NumPy, SciPy, matplotlib, seaborn
-- **ML/DL**: scikit-learn, TensorFlow, Keras
-- **Visualization**: Matplotlib, ggplot2, Tableau (basic)
-- **Tools**: Jupyter, Git/GitHub, advanced Excel, SQL
-- **Mathematics**: Linear Algebra, Calculus, Statistics, Probability
-
----
-
-
