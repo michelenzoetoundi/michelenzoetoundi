@@ -9,7 +9,7 @@ _Strictly guided by selected books - Monthly sprint approach_
 
 |Aspect|Details|
 |---|---|
-|**⏱️ Duration**|4-5 weeks|
+|**⏱️ Duration**|12 weeks|
 |**📚 Core Book**|_Principles of Data Science_ (Ault, 2025 - OpenStax)|
 |**📖 Chapters**|**Complete Book** (Units 1, 2, 3, 4)|
 |**🎯 Objective**|Obtain a complete mental map of the field, from collection to production, including ethics and communication.|
@@ -252,18 +252,5 @@ _Strictly guided by selected books - Monthly sprint approach_
 |**🔗 Prerequisites**|**All previous sprints**.|
 |**🏗️ Project**|Ambitious synthesis project integrating all skills.|
 |**✅ Validation**|Complete project + professional portfolio.|
-
----
-
-## 📊 **GLOBAL TIMELINE**
-
-|Period|Sprints|Focus|Duration|
-|---|---|---|---|
-|**Start**|1-3|Phases 1-3: Global View, Stats, System Fundamentals|3.5-4 months|
-|**Continuation**|4-7|Phase 4: Mastery of Languages & Tools|4.5 months|
-|**Mid-Point**|8-12|Phase 5: Advanced Maths & ML|5.5 months|
-|**End**|13-18|Phase 6: Advanced Engineering & Deep Learning|6-7 months|
-
-**Total: ~19-21 months** (with flexibility based on pace)
 
 ---
