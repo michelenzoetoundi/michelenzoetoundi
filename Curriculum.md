@@ -25,7 +25,7 @@ _Strictly guided by selected books - Monthly sprint approach_
 
 | Aspect               | Details                                                                                                                         |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **⏱️ Duration**      | 4 weeks                                                                                                                         |
+| **⏱️ Duration**      | 8 weeks                                                                                                                         |
 | **📚 Books**         | 1. _Introductory Statistics_ (Gould)  <br>2. _Statistics for Managers Using Microsoft Excel_ (Levine)                           |
 | **🛠️ Tool**         | Microsoft Excel (Data Analysis Toolpak)                                                                                         |
 | **🎯 Objective**     | Master descriptive and inferential statistical concepts and know how to implement them in the universal business analysis tool. |
@@ -41,7 +41,7 @@ _Strictly guided by selected books - Monthly sprint approach_
 
 | Aspect               | Details                                                                                                                                                                  |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **⏱️ Duration**      | 5-6 weeks                                                                                                                                                                |
+| **⏱️ Duration**      | 4 weeks                                                                                                                                                                  |
 | **📚 Books**         | 1. _Foundations of Computer Science_ (Forouzan): **Ch. 1, 2, 3, 4, 5, 8, 9**.  <br>2. _Introduction to Computer Science_ (Franchitti): **Part 1 (Ch. 1, 2, 3) & Ch. 8**. |
 | **🎯 Objective**     | Understand the basic workings of a computer (data, architecture), algorithmic thinking, and data management system concepts.                                             |
 | **🔗 Prerequisites** | **Sprint 1 & 2** (context and need for quantitative rigor).                                                                                                              |
@@ -54,41 +54,41 @@ _Strictly guided by selected books - Monthly sprint approach_
 
 ### **🐍 SPRINT 4: Fundamental Programming & Data Science Transition**
 
-|Aspect|Details|
-|---|---|
-|**⏱️ Duration**|6 weeks|
-|**📚 Book**|_Introduction to Python Programming_ (Das & Lawson, 2024 - OpenStax)|
-|**📖 Chapters**|**Complete Book (Ch. 1 to 15)**. Ch.15 is the key transition.|
-|**🛠️ Tool**|Python (Local environment or notebook)|
-|**🎯 Objective**|1. Master the fundamentals of Python programming.  <br>2. Apply these basics to the Data Science context via NumPy/Pandas (Ch.15).|
-|**🔗 Prerequisites**|**Sprint 3** (understanding of what a program and data are).|
-|**🏗️ Project**|1. Pure programming project (CLI game or utility).  <br>2. Mini-analysis of a dataset with Pandas.|
-|**✅ Validation**|Functional, clean, and commented code for both projects.|
+| Aspect               | Details                                                                                                                            |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **⏱️ Duration**      | 4 weeks                                                                                                                            |
+| **📚 Book**          | _Introduction to Python Programming_ (Das & Lawson, 2024 - OpenStax)                                                               |
+| **📖 Chapters**      | **Complete Book (Ch. 1 to 15)**. Ch.15 is the key transition.                                                                      |
+| **🛠️ Tool**         | Python (Local environment or notebook)                                                                                             |
+| **🎯 Objective**     | 1. Master the fundamentals of Python programming.  <br>2. Apply these basics to the Data Science context via NumPy/Pandas (Ch.15). |
+| **🔗 Prerequisites** | **Sprint 3** (understanding of what a program and data are).                                                                       |
+| **🏗️ Project**      | 1. Pure programming project (CLI game or utility).  <br>2. Mini-analysis of a dataset with Pandas.                                 |
+| **✅ Validation**     | Functional, clean, and commented code for both projects.                                                                           |
 
 ### **🗃️ SPRINT 5: SQL for Data Engineering**
 
-|Aspect|Details|
-|---|---|
-|**⏱️ Duration**|3 weeks|
-|**📚 Book**|_Sams Teach Yourself SQL in 10 Minutes_ (Forta)|
-|**🛠️ Tool**|SQLite / PostgreSQL|
-|**📖 Chapters**|1 to 22 (complete book)|
-|**🎯 Objective**|Master data extraction, transformation, and aggregation from a relational DBMS.|
-|**🔗 Prerequisites**|**Sprint 3** (database concepts) and **Sprint 4** (programming logic).|
-|**🏗️ Project**|Modeled relational database and complex SQL queries to answer business questions.|
-|**✅ Validation**|Functional and documented SQL scripts.|
+| Aspect               | Details                                                                           |
+| -------------------- | --------------------------------------------------------------------------------- |
+| **⏱️ Duration**      | 4 weeks                                                                           |
+| **📚 Book**          | _Sams Teach Yourself SQL in 10 Minutes_ (Forta)                                   |
+| **🛠️ Tool**         | SQLite / PostgreSQL                                                               |
+| **📖 Chapters**      | 1 to 22 (complete book)                                                           |
+| **🎯 Objective**     | Master data extraction, transformation, and aggregation from a relational DBMS.   |
+| **🔗 Prerequisites** | **Sprint 3** (database concepts) and **Sprint 4** (programming logic).            |
+| **🏗️ Project**      | Modeled relational database and complex SQL queries to answer business questions. |
+| **✅ Validation**     | Functional and documented SQL scripts.                                            |
 
 ### **📈 SPRINT 6: Statistical Analysis with R**
 
-|Aspect|Details|
-|---|---|
-|**⏱️ Duration**|5 weeks|
-|**📚 Books**|1. _Practical Data Science with R_ (Mount)  <br>2. _The R Book_ (Jones) as reference|
-|**🛠️ Tool**|R (tidyverse, ggplot2, R Markdown)|
-|**🎯 Objective**|Use R, a specialized language, for advanced exploratory and confirmatory statistical analysis.|
-|**🔗 Prerequisites**|**Sprint 2** (Statistics), **Sprint 4** (programming logic).|
-|**🏗️ Project**|Replication and extension of a published statistical analysis.|
-|**✅ Validation**|Reproducible R code and professional R Markdown report.|
+| Aspect               | Details                                                                                        |
+| -------------------- | ---------------------------------------------------------------------------------------------- |
+| **⏱️ Duration**      | 8 weeks                                                                                        |
+| **📚 Books**         | 1. _Practical Data Science with R_ (Mount)  <br>2. _The R Book_ (Jones) as reference           |
+| **🛠️ Tool**         | R (tidyverse, ggplot2, R Markdown)                                                             |
+| **🎯 Objective**     | Use R, a specialized language, for advanced exploratory and confirmatory statistical analysis. |
+| **🔗 Prerequisites** | **Sprint 2** (Statistics), **Sprint 4** (programming logic).                                   |
+| **🏗️ Project**      | Replication and extension of a published statistical analysis.                                 |
+| **✅ Validation**     | Reproducible R code and professional R Markdown report.                                        |
 
 ### **🔧 SPRINT 7: Advanced Manipulation with Pandas**
 
@@ -161,16 +161,16 @@ _Strictly guided by selected books - Monthly sprint approach_
 
 ### **🤖 SPRINT 12: Fundamental Machine Learning**
 
-|Aspect|Details|
-|---|---|
-|**⏱️ Duration**|5 weeks|
-|**📚 Book**|_Python Data Science Handbook_ (VanderPlas)|
-|**🛠️ Tool**|Scikit-learn|
-|**📖 Part**|V (Machine Learning - Chapters 37 to 50)|
-|**🎯 Objective**|Master the complete machine learning workflow.|
-|**🔗 Prerequisites**|**Sprint 10 & 11** (Python ecosystem + applied algebra).|
-|**🏗️ Project**|End-to-end ML pipeline: from preprocessing to evaluation.|
-|**✅ Validation**|Understanding of ML algorithms + functional pipeline.|
+| Aspect               | Details                                                   |
+| -------------------- | --------------------------------------------------------- |
+| **⏱️ Duration**      | 8 weeks                                                   |
+| **📚 Book**          | _Python Data Science Handbook_ (VanderPlas)               |
+| **🛠️ Tool**         | Scikit-learn                                              |
+| **📖 Part**          | V (Machine Learning - Chapters 37 to 50)                  |
+| **🎯 Objective**     | Master the complete machine learning workflow.            |
+| **🔗 Prerequisites** | **Sprint 10 & 11** (Python ecosystem + applied algebra).  |
+| **🏗️ Project**      | End-to-end ML pipeline: from preprocessing to evaluation. |
+| **✅ Validation**     | Understanding of ML algorithms + functional pipeline.     |
 
 ---
 
