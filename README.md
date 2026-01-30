@@ -10,12 +10,6 @@ I'm following a structured learning path to master data analysis, machine learni
 
 ---
 
-## 📚 Learning Focus
-
-[📖 View Full Curriculum](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)
-
----
-
 ## 🔗 My Work
 - 💻 **[Learning Repository](https://github.com/michelenzoetoundi/Datascience-IA/)** - Documenting my journey
 - 📊 **[Kaggle](https://www.kaggle.com/michaelenzoetoundi)** - Future competitions & projects
