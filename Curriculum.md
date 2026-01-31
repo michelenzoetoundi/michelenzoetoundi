@@ -75,6 +75,7 @@ _Strictly guided by selected books - Sprint approach_
 | **📚 Book**     | _Linear Algebra and Its Applications_ (Lay) |
 | **🛠️ Tool**    | Octave, Python (NumPy, SciPy)               |
 | **📖 Chapter**  | 6 (Orthogonality and Least Squares)         |
+| **🎯 Objective** | Master advanced concepts for AI & Machine Learning|
 
 ---
 ## 🎯 **PHASE 4: MACHINE LEARNING**
@@ -88,7 +89,7 @@ _Strictly guided by selected books - Sprint approach_
 | **🎯 Objective**     | Develop and train ML models using the TensorFlow ecosystem.                                 |
 
 ---
-## 🎯 **PHASE 5: ADVANCED MATHEMATICAL FOUNDATIONS II
+## 🎯 PHASE 5: ADVANCED MATHEMATICAL FOUNDATIONS II
 ### **🎯 SPRINT 10: Advanced Algebra - SVD & Applications**
 
 | Aspect               | Details                                                             |
