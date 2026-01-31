@@ -11,7 +11,7 @@ I'm following a structured learning path to master data analysis, machine learni
 ---
 
 ## 🔗 My Work
-- 📚 **[Training Plan](https://github.com/michelenzoetoundi/)** - My curriculum 
+- 📚 **[Training Plan](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)** - My curriculum 
 - 💻 **[Learning Repository](https://github.com/michelenzoetoundi/Datascience-IA/)** - Documenting my journey
 - 📊 **[Kaggle](https://www.kaggle.com/michaelenzoetoundi)** - Future competitions & projects
 
