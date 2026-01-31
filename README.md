@@ -31,5 +31,3 @@ Bridging network architecture, software systems, and machine learning through ma
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail)](mailto:mikeenzoetoundi@yahoo.com)
 
 ---
-
-*Building systematically. Learning thoroughly.*
