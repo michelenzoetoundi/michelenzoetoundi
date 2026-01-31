@@ -8,6 +8,7 @@ Engineering data from signals to insights.
 📡 Telecoms → 💻 Computer Science → 📊 Data Science
 
 Bridging network architecture, software systems, and machine learning through mathematics, statistics, and hands-on analytics.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
