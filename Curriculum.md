@@ -117,7 +117,7 @@ _Strictly guided by selected books - Sprint approach_
 | **🛠️ Tool**         | Python (NumPy) from scratch                                                     |
 | **📖 Chapters**      | 1 to 6 (mathematical foundations)                                               |
 | **🎯 Objective**     | Understand the mathematical foundations of neural networks.                     |
-## 🎯 **PHASE 6: Deep Learning**
+## 🎯 **PHASE 6: DEEP LEARNING**
 ### **🚀 SPRINT 13 :  Deep Learning**
 
 | Aspect           | Details                                                             |
