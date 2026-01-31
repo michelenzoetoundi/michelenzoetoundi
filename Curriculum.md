@@ -10,16 +10,17 @@ _Strictly guided by selected books - Sprint approach_
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **📚 Core Books** | 1. _Principles of Data Science_ (Ault, 2025 - OpenStax)<br>2. _Introduction to Computer Science_ (OpenStax)<br>3. _Introduction to Python Programming_ (OpenStax) |
 | **📖 Chapters**   | _Principles of Data Science_ & _Introduction to Python Programming_ (Complete Books), _Introduction to Computer Science_ (Ch. 1 to 8)                             |
+| **🎯 Objective**  | Understand the Data Science ecosystem, assimilate computer architecture, and acquire a robust programming logic in Python                                         |
 
 ---
 ## 🎯 **PHASE 2:  FOUNDATIONS  CONSOLIDATION, MASTERY OF LANGUAGES & SPECIFIC TOOLS**
 ### **📊 SPRINT 2: Applied Statistics with Excel**
 
-| Aspect               | Details                                                                                                                            |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **📚 Books**         | 1. _Introductory Statistics_ (Gould)  <br>2. _Statistics for Managers Using Microsoft Excel_ (Levine)                              |
-| **📖 Chapters**      | **Complete Books**                                                                                                                 |
-| **🎯 Objective**     | Master descriptive and inferential statistical concepts and know how to implement them in the universal business analysis tool. |
+| Aspect           | Details                                                                                                                         |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **📚 Books**     | 1. _Introductory Statistics_ (Gould)  <br>2. _Statistics for Managers Using Microsoft Excel_ (Levine)                           |
+| **📖 Chapters**  | **Complete Books**                                                                                                              |
+| **🎯 Objective** | Master descriptive and inferential statistical concepts and know how to implement them in the universal business analysis tool. |
 
 ### **🔧 SPRINT 3: Advanced Manipulation with Pandas**
 
@@ -118,12 +119,12 @@ _Strictly guided by selected books - Sprint approach_
 ## 🎯 **PHASE 6: Deep Learning**
 ### **🚀 SPRINT 13 :  Deep Learning**
 
-| Aspect               | Details                                                             |
-| -------------------- | ------------------------------------------------------------------- |
-| **📚 Book**          | _Deep Learning With Python_ (Chollet - 2nd ed.)                     |
-| **🛠️ Tool**         | TensorFlow / Keras                                                  |
-| **📖 Chapters**      | 1 to 9 (complete book)                                              |
-| **🎯 Objective**     | Master modern deep learning architectures (CNN, RNN, transformers). |
+| Aspect           | Details                                                             |
+| ---------------- | ------------------------------------------------------------------- |
+| **📚 Book**      | _Deep Learning With Python_ (Chollet - 2nd ed.)                     |
+| **🛠️ Tool**     | TensorFlow / Keras                                                  |
+| **📖 Chapters**  | 1 to 9 (complete book)                                              |
+| **🎯 Objective** | Master modern deep learning architectures (CNN, RNN, transformers). |
 
 ### **🎓 SPRINT 14: Consolidation & Specialization**
 
