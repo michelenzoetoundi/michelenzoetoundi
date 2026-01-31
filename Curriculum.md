@@ -4,7 +4,7 @@ _Strictly guided by selected books - Sprint approach_
 
 ---
 ## 🎯 **PHASE 1: BASIC FOUNDATIONS**
-### **🖥️  SPRINT 1 : The Data Science Profession & Computer Science Fundamentals****
+### **🖥️  SPRINT 1 : The Data Science Profession & Computer Science Fundamentals**
 
 | Aspect            | Details                                                                                                                                                           |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -12,7 +12,7 @@ _Strictly guided by selected books - Sprint approach_
 | **📖 Chapters**   | _Principles of Data Science_ & _Introduction to Python Programming_ (Complete Books), _Introduction to Computer Science_ (Ch. 1 to 8)                             |
 
 ---
-## 🎯 **PHASE 2:  FOUNDATIONS  CONSOLIDATION, MASTERY OF LANGUAGES & SPECIFIC TOOLS****
+## 🎯 **PHASE 2:  FOUNDATIONS  CONSOLIDATION, MASTERY OF LANGUAGES & SPECIFIC TOOLS**
 ### **📊 SPRINT 2: Applied Statistics with Excel**
 
 | Aspect               | Details                                                                                                                            |
