@@ -3,20 +3,18 @@ Welcome to my GitHub space.
 ---
 
 ## 🚀 About Me
-I'm a Telecommunications Engineer building skills in **Data Science & AI**.  
-I'm following a structured learning path to master data analysis, machine learning, and real-world problem-solving.
+
+I'm building a bridge from **network infrastructure** to **data intelligence**—applying engineering rigor to data-driven problems.
 
 🇫🇷 🇬🇧 I speak both French and English.
 
 ---
 
 ## 🔗 My Work
+
 - 📚 **[Training Plan](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)** - My curriculum 
 - 💻 **[Learning Repository](https://github.com/michelenzoetoundi/Datascience-IA/)** - Documenting my journey
 - 📊 **[Kaggle](https://www.kaggle.com/michaelenzoetoundi)** - Future competitions & projects
-
-## 🌍 Vision
-Build practical, responsible data solutions that connect technology with real-world impact.
 
 ---
 
