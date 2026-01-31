@@ -21,7 +21,7 @@ Bridging network architecture, software systems, and machine learning through ma
 ## 🔗 My Work
 
 - 📚 **[Training Plan](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/Curriculum.md)** - My curriculum 
-- 💻 **[Learning Repository](https://github.com/michelenzoetoundi/Datascience-IA/)** - Documenting my journey
+- 💻 **[Learning Repository](https://github.com/michelenzoetoundi/Datascience-IA/)** - Documenting my journey, skills progression & projects completed
 - 📊 **[Kaggle](https://www.kaggle.com/michaelenzoetoundi)** - Future competitions & projects
 
 ---
