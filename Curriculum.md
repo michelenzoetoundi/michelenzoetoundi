@@ -49,7 +49,7 @@ _Strictly guided by selected books - Sprint approach_
 | **🎯 Objective**     | Master data extraction, transformation, and aggregation from a relational DBMS. |
 
 ---
-## 🎯 **PHASE 3 : ADVANCED MATHEMATICAL FOUNDATIONS I
+## 🎯 PHASE 3 : ADVANCED MATHEMATICAL FOUNDATIONS I
 ### **📐 SPRINT 6: Fundamental Linear Algebra**
 
 | Aspect           | Details                                                  |
