@@ -4,9 +4,14 @@ Welcome to my GitHub space.
 
 ## 🚀 About Me
 
-I'm building a bridge from **network infrastructure** to **data intelligence**—applying engineering rigor to data-driven problems.
-
-🇫🇷 🇬🇧 I speak both French and English.
+Engineering data from signals to insights.
+📡 Telecoms → 💻 Computer Science → 📊 Data Science
+Bridging network architecture, software systems, and machine learning through mathematics, statistics, and hands-on analytics.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Octave](https://img.shields.io/badge/Octave-0790C0?style=flat&logo=octave&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
 
