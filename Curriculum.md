@@ -19,7 +19,7 @@ _Strictly guided by selected books - Sprint approach_
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | **📚 Books**         | 1. _Introductory Statistics_ (Gould)  <br>2. _Statistics for Managers Using Microsoft Excel_ (Levine)                              |
 | **📖 Chapters**      | **Complete Books**                                                                                                                 |
-| **🎯 Objective**     | 1. Master descriptive and inferential statistical concepts and know how to implement them in the universal business analysis tool. |
+| **🎯 Objective**     | Master descriptive and inferential statistical concepts and know how to implement them in the universal business analysis tool. |
 
 ### **🔧 SPRINT 3: Advanced Manipulation with Pandas**
 
