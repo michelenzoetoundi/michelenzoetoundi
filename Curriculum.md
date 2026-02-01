@@ -1,20 +1,17 @@
-# 📚 **COMPLETE DATA SCIENCE & AI TRAINING**
+#  **COMPLETE DATA SCIENCE & AI TRAINING**
 
-_Strictly guided by selected books - Sprint approach_
-
----
-## 🎯 **PHASE 1: BASIC FOUNDATIONS**
-### **🖥️  SPRINT 1 : The Data Science Profession & Computer Science Fundamentals**
-
-| Aspect            | Details                                                                                                                                                           |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **📚 Core Books** | 1. _Principles of Data Science_ (Ault, 2025 - OpenStax)<br>2. _Introduction to Computer Science_ (OpenStax)<br>3. _Introduction to Python Programming_ (OpenStax) |
-| **📖 Chapters**   | _Principles of Data Science_ & _Introduction to Python Programming_ (Complete Books), _Introduction to Computer Science_ (Ch. 1 to 8)                             |
-| **🎯 Objective**  | Understand the Data Science ecosystem, assimilate computer architecture, and acquire a robust programming logic in Python                                         |
+Books are my courses, Authors my teachers, Exercises and Projects my Exams.
 
 ---
-## 🎯 **PHASE 2:  FOUNDATIONS  CONSOLIDATION, MASTERY OF LANGUAGES & SPECIFIC TOOLS**
-### **📊 SPRINT 2: Applied Statistics with Excel**
+## **PHASE 1: BUILDING FOUNDATIONS**
+### **📌  MODULE 1 : The Data Science Ecosystem + Computer Science & Programming Fundamentals**
+
+| Aspect           | Details                                                                                                                                              |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **📚 Books**     | 1. _Principles of Data Science_ (OpenStax)<br>2. _Introduction to Computer Science_ (OpenStax)<br>3. _Introduction to Python Programming_ (OpenStax) |
+| **📖 Chapters**  | _Principles of Data Science_ & _Introduction to Python Programming_ (**Complete Books**)<br> _Introduction to Computer Science_ (**Ch. 1 to 8**)     |
+| **🎯 Objective** | Understand the Data Science ecosystem, assimilate computer architecture, and acquire a robust programming logic in Python                            |
+### **📌 MODULE 2: Statistics Theory + Application with SpreadSheets
 
 | Aspect           | Details                                                                                                                         |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,35 +19,39 @@ _Strictly guided by selected books - Sprint approach_
 | **📖 Chapters**  | **Complete Books**                                                                                                              |
 | **🎯 Objective** | Master descriptive and inferential statistical concepts and know how to implement them in the universal business analysis tool. |
 
-### **🔧 SPRINT 3: Advanced Manipulation with Pandas**
+---
+## **PHASE 2:  MASTERY OF LANGUAGES & SPECIFIC TOOLS**
 
-| Aspect               | Details                                                                                             |
-| -------------------- | --------------------------------------------------------------------------------------------------- |
-| **📚 Book**          | _Pandas Workout_ (Lerner)                                                                           |
-| **🛠️ Tool**         | Python (pandas, numpy)                                                                              |
-| **📖 Content**       | Selection of the first 100 most relevant exercises.                                                 |
-| **🎯 Objective**     | Develop professional reflexes for efficiently cleaning, transforming, and preparing data in Python. |
+### **📌 MODULE 3: Data Analysis using Python
 
-### **📈 SPRINT 4: Statistical Analysis with R**
+| Aspect           | Details                                                                                                                    |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **📚 Book**      | 1. _Pandas Workout_ (Lerner)<br> 2. _Python Data Science Handbook Essential Tools for Working with Data (Jake VanderPlas)_ |
+| **🛠️ Tool**     | Python (pandas, numpy, Matplotlib)                                                                                         |
+| **📖 Chapters**  | _Pandas Workout_ (**Complete Book**)<br>_Python Data Science Handbook_ (Parts II & IV)                                     |
+| **🎯 Objective** | Develop professional reflexes for efficiently cleaning, transforming, preparing, analyzing and visualizing data in Python. |
 
-| Aspect               | Details                                                                                        |
-| -------------------- | ---------------------------------------------------------------------------------------------- |
-| **📚 Books**         | 1. _Practical Data Science with R_ (Mount)  <br>2. _The R Book_ (Jones) as reference           |
-| **🛠️ Tool**         | R (tidyverse, ggplot2, R Markdown)                                                             |
-| **🎯 Objective**     | Use R, a specialized language, for advanced exploratory and confirmatory statistical analysis. |
+### **📌 MODULE 4: Statistical Analysis with R**
 
-### **🗃️ SPRINT 5: SQL for Data Engineering**
+| Aspect           | Details                                                                                                              |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **📚 Books**     | 1. _Practical Data Science with R_ (Mount)  <br>2. _The R Book_ (Jones)                                              |
+| **🛠️ Tool**     | R (tidyverse, ggplot2, R Markdown)                                                                                   |
+| **📖 Chapters**  | _Practical Data Science with R_ ( **Complete Book**)<br>_The R Book_  (**Only relevant chapters**)                   |
+| **🎯 Objective** | Develop professional reflexes for efficiently cleaning, transforming, preparing, analyzing and visualizing data in R |
 
-| Aspect               | Details                                                                         |
-| -------------------- | ------------------------------------------------------------------------------- |
-| **📚 Book**          | _Sams Teach Yourself SQL in 10 Minutes_ (Forta)                                 |
-| **🛠️ Tool**         | SQLite / PostgreSQL                                                             |
-| **📖 Chapters**      | 1 to 22 (complete book)                                                         |
-| **🎯 Objective**     | Master data extraction, transformation, and aggregation from a relational DBMS. |
+### **📌 MODULE 5: SQL for Data Engineering**
+
+| Aspect           | Details                                                                         |
+| ---------------- | ------------------------------------------------------------------------------- |
+| **📚 Book**      | _Sams Teach Yourself SQL in 10 Minutes_ (Forta)                                 |
+| **🛠️ Tool**     | SQLite / PostgreSQL                                                             |
+| **📖 Chapters**  | **Complete book**                                                               |
+| **🎯 Objective** | Master data extraction, transformation, and aggregation from a relational DBMS. |
 
 ---
-## 🎯 PHASE 3 : ADVANCED MATHEMATICAL FOUNDATIONS I
-### **📐 SPRINT 6: Fundamental Linear Algebra**
+## PHASE 3 : ADVANCED MATHEMATICAL FOUNDATIONS I
+### **📌 MODULE 6: Fundamental Linear Algebra**
 
 | Aspect           | Details                                                  |
 | ---------------- | -------------------------------------------------------- |
@@ -59,7 +60,7 @@ _Strictly guided by selected books - Sprint approach_
 | **📖 Chapters**  | 1, 2, 3 (Linear Equations, Matrix Algebra, Determinants) |
 | **🎯 Objective** | Understand the foundations of linear algebra.            |
 
-### **📏 SPRINT 7: Vector Spaces & Eigenvalues**
+### **📌MODULE 7: Vector Spaces & Eigenvalues**
 
 | Aspect           | Details                                                  |
 | ---------------- | -------------------------------------------------------- |
@@ -68,7 +69,7 @@ _Strictly guided by selected books - Sprint approach_
 | **📖 Chapters**  | 4, 5 (Vector Spaces, Eigenvalues and Eigenvectors)       |
 | **🎯 Objective** | Master advanced concepts for dimensional analysis (PCA). |
 
-### **➗ SPRINT 8: Applied Algebra - Least Squares**
+### **📌 MODULE 8: Applied Algebra - Least Squares**
 
 | Aspect          | Details                                     |
 | --------------- | ------------------------------------------- |
@@ -78,19 +79,19 @@ _Strictly guided by selected books - Sprint approach_
 | **🎯 Objective** | Master advanced concepts for AI & Machine Learning|
 
 ---
-## 🎯 **PHASE 4: MACHINE LEARNING**
-### **⚡ SPRINT 9: Machine Learning with TensorFlow**
+## **PHASE 4: MACHINE LEARNING**
+### **📌 MODULE 9: Machine Learning with TensorFlow**
 
-| Aspect               | Details                                                                                     |
-| -------------------- | ------------------------------------------------------------------------------------------- |
-| **📚 Book**          | _Machine Learning with TensorFlow_ (Mattmann)                                               |
-| **🛠️ Tool**         | TensorFlow / Keras                                                                          |
-| **📖 Chapters**      | 1 to 10 (complete book)                                                                     |
-| **🎯 Objective**     | Develop and train ML models using the TensorFlow ecosystem.                                 |
+| Aspect           | Details                                                     |
+| ---------------- | ----------------------------------------------------------- |
+| **📚 Book**      | _Machine Learning with TensorFlow_ (Mattmann)               |
+| **🛠️ Tool**     | TensorFlow / Keras                                          |
+| **📖 Chapters**  | 1 to 10 (complete book)                                     |
+| **🎯 Objective** | Develop and train ML models using the TensorFlow ecosystem. |
 
 ---
-## 🎯 PHASE 5: ADVANCED MATHEMATICAL FOUNDATIONS II
-### **🎯 SPRINT 10: Advanced Algebra - SVD & Applications**
+## PHASE 5: ADVANCED MATHEMATICAL FOUNDATIONS II
+### **📌 MODULE 10: Advanced Algebra - SVD & Applications**
 
 | Aspect               | Details                                                             |
 | -------------------- | ------------------------------------------------------------------- |
@@ -99,7 +100,7 @@ _Strictly guided by selected books - Sprint approach_
 | **📖 Chapter**       | 7 (Symmetric Matrices and Quadratic Forms)                          |
 | **🎯 Objective**     | Master SVD for advanced applications (recommendation, compression). |
 
-### **∫ SPRINT 11: Differential & Integral Calculus**
+### **📌 MODULE 11: Differential & Integral Calculus**
 
 | Aspect               | Details                                                                      |
 | -------------------- | ---------------------------------------------------------------------------- |
@@ -109,16 +110,16 @@ _Strictly guided by selected books - Sprint approach_
 | **🎯 Objective**     | Mathematical foundations for optimization in ML (gradient descent).          |
 
 
-### **🧠 SPRINT 12 : Mathematics of Deep Learning Architectures**
+### **📌 MODULE 12 : Mathematics of Deep Learning Architectures**
 
-| Aspect               | Details                                                                         |
-| -------------------- | ------------------------------------------------------------------------------- |
-| **📚 Book**          | _Math and Architectures of Deep Learning_ (Chaudhury)                           |
-| **🛠️ Tool**         | Python (NumPy) from scratch                                                     |
-| **📖 Chapters**      | 1 to 6 (mathematical foundations)                                               |
-| **🎯 Objective**     | Understand the mathematical foundations of neural networks.                     |
-## 🎯 **PHASE 6: DEEP LEARNING**
-### **🚀 SPRINT 13 :  Deep Learning**
+| Aspect           | Details                                                     |
+| ---------------- | ----------------------------------------------------------- |
+| **📚 Book**      | _Math and Architectures of Deep Learning_ (Chaudhury)       |
+| **🛠️ Tool**     | Python (NumPy) from scratch                                 |
+| **📖 Chapters**  | Complete Book                                               |
+| **🎯 Objective** | Understand the mathematical foundations of neural networks. |
+## **PHASE 6: DEEP LEARNING**
+### **📌 MODULE 13 :  Deep Learning**
 
 | Aspect           | Details                                                             |
 | ---------------- | ------------------------------------------------------------------- |
@@ -126,14 +127,5 @@ _Strictly guided by selected books - Sprint approach_
 | **🛠️ Tool**     | TensorFlow / Keras                                                  |
 | **📖 Chapters**  | 1 to 9 (complete book)                                              |
 | **🎯 Objective** | Master modern deep learning architectures (CNN, RNN, transformers). |
-
-### **🎓 SPRINT 14: Consolidation & Specialization**
-
-| Aspect           | Details                                                                                                                                                                      |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **📚 Books**     | Choice based on desired specialization (e.g., _Artificial Intelligence: A Modern Approach_ - Russell & Norvig, _Introduction to Operations Research_ - Hillier & Lieberman). |
-| **🛠️ Tool**     | Python / according to specialization                                                                                                                                         |
-| **🎯 Objective** | Consolidate learning and develop a specialization.                                                                                                                           |
-
 
 ---
