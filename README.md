@@ -1,14 +1,7 @@
-Welcome to my GitHub space.
-
----
-
 ## 🚀 About Me
-
-Engineering data from signals to insights.
-📡 Telecoms → 💻 Computer Science → 📊 Data Science
-
-Bridging network architecture, software systems, and machine learning through mathematics, statistics, and hands-on analytics.
-
+- Hi ! I'm @michelenzoetoundi
+- I'm interested in Data Science & AI
+- I have an engineering background in telecommunications and computer science
 🔧 Tech Stack: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -19,7 +12,7 @@ Bridging network architecture, software systems, and machine learning through ma
 
 ## 🔗 My Work
 
-- 📚 **[Training Plan](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/CURRICULUM-DATA%20SCIENCE.pdf)** - My curriculum 
+- 📚 **[Training Plan](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/CURRICULUM-DATA%20SCIENCE.pdf)** - My learning plan
 - 💻 **[Learning Repository](https://github.com/michelenzoetoundi/Datascience-IA/)** - Documenting my journey, skills progression & projects completed
 - 📊 **[Kaggle](https://www.kaggle.com/michaelenzoetoundi)** - Future competitions & projects
 
