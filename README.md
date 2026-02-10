@@ -1,7 +1,7 @@
 ## 🚀 About Me
 - Hi ! I'm @michelenzoetoundi
 - I'm interested in Data Science & AI
-- I have an engineering background in telecommunications and computer science
+- I have an engineering background in information & communication technologies
 - 🔧 Tech Stack: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
