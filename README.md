@@ -1,5 +1,5 @@
 ## 👋 Hi ! I'm Michel Enzo Etoundi
-- I have an engineering background in information & communication technologies, with +2 years of experience as Solutions Sales Engineer.
+- I have an engineering background in information & communication technologies, with +2 years of experience as Solutions Sales Engineer in the telecom's industry.
 - I'm interested in Data Science as a mean of describing and predicting human's experience.
 - I use Python, R, SQL, Tableau as software tools.
 
