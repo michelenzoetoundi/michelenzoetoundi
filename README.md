@@ -1,7 +1,7 @@
 #### 🚀  Hi ! I'm Michel Enzo Etoundi
 - I'm interested in Data Science
 - I have an engineering background in information & communication technologies
-- 🔧 I work with : Python, R, SQL, Tableau
+- I work with : Python, R, SQL, Tableau
 
 #### 🔗 My Data Science Journey
 
