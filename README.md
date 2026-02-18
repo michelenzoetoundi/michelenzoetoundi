@@ -1,4 +1,4 @@
-#### 🚀  Hi ! I'm @michelenzoetoundi
+#### 🚀  Hi ! I'm Michel Enzo Etoundi
 - I'm interested in Data Science & AI
 - I have an engineering background in information & communication technologies
 - 🔧 Tech Stack: 
