@@ -3,7 +3,7 @@
 - I'm interested in Data Science as a mean of describing and predicting reality.
 - I use Python, R, SQL, Tableau as software tools.
 
-#### 🧭 Here is my Data Science Journey
+#### 🧭 Here is my Data Science's Journey
 
 - 📚 **[Training Plan](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/CURRICULUM-DATA%20SCIENCE.pdf)** - My learning plan
 - 💻 **[Learning Repository](https://github.com/michelenzoetoundi/Datascience-IA/)** - Documenting my progression & projects completed
