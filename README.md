@@ -9,11 +9,10 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
-
-## 🔗 My Work
+## 🔗 My Data Science Journey
 
 - 📚 **[Training Plan](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/CURRICULUM-DATA%20SCIENCE.pdf)** - My learning plan
-- 💻 **[Learning Repository](https://github.com/michelenzoetoundi/Datascience-IA/)** - Documenting my journey, skills progression & projects completed
+- 💻 **[Learning Repository](https://github.com/michelenzoetoundi/Datascience-IA/)** - Documenting my progression & projects completed
 - 📊 **[Kaggle](https://www.kaggle.com/michaelenzoetoundi)** - Future competitions & projects
 
 ---
