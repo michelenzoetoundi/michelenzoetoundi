@@ -1,11 +1,7 @@
 #### 🚀  Hi ! I'm Michel Enzo Etoundi
 - I'm interested in Data Science & AI
 - I have an engineering background in information & communication technologies
-- 🔧 Tech Stack: 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+- 🔧 I work with : Python, R, SQL, Tableau
 
 #### 🔗 My Data Science Journey
 
