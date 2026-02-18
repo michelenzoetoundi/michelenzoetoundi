@@ -9,8 +9,4 @@
 - 💻 **[Learning Repository](https://github.com/michelenzoetoundi/Datascience-IA/)** - Documenting my progression & projects completed
 - 📊 **[Kaggle](https://www.kaggle.com/michaelenzoetoundi)** - Future competitions & projects
 
-#### 📬 Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/michel-enzo-etoundi-121b64191)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail)](mailto:mikeenzoetoundi@yahoo.com)
-
 ---
