@@ -4,8 +4,6 @@
 - I use Python, R, SQL & Tableau to prepare, process, analyze and visualize data models.
 
 #### 🧭 Here is my Data Science's Journey
-
-- 📚 **[Training Plan](https://github.com/michelenzoetoundi/michelenzoetoundi/blob/main/CURRICULUM-DATA%20SCIENCE.pdf)** - My learning plan
 - 💻 **[Learning Repository](https://github.com/michelenzoetoundi/Datascience-IA/)** - Documenting my progression & projects completed
 - 📊 **[Kaggle](https://www.kaggle.com/michaelenzoetoundi)** - Future competitions & projects
 
