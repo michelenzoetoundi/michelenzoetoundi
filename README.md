@@ -1,5 +1,5 @@
 ## 👋 Hi ! I'm Michel Enzo Etoundi
-- I have an engineering background in information & communication technologies, with +2 years of experience as Solutions Presales Engineer in the telecom's industry.
+- I have an engineering background in information & communication technologies.
 - I'm interested in Computer Programming & Data Science.
 
 #### 🧭 Here is my Data Science's Journey
